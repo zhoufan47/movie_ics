@@ -1,0 +1,142 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影上映日历
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 去你的岛
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+UID:35275131@douban-movie-calendar
+DESCRIPTION:电影：去你的岛\n类型：爱情 / 动画 / 奇幻\n地
+ 区：中国大陆\n豆瓣链接：https://movie.douban.com/subject/352751
+ 31/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 冬旅人
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+UID:35201478@douban-movie-calendar
+DESCRIPTION:电影：冬旅人\n类型：剧情 / 家庭\n地区：中国
+ 大陆\n豆瓣链接：https://movie.douban.com/subject/35201478/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 林家宅37号
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+UID:37435260@douban-movie-calendar
+DESCRIPTION:电影：林家宅37号\n类型：悬疑 / 惊悚\n地区：
+ 中国大陆\n豆瓣链接：https://movie.douban.com/subject/37435260/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 汪汪队立大功大电影3：勇闯恐龙岛
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+UID:36791178@douban-movie-calendar
+DESCRIPTION:电影：汪汪队立大功大电影3：勇闯恐龙岛\n类
+ 型：喜剧 / 科幻 / 动画\n地区：加拿大\n豆瓣链接：https:/
+ /movie.douban.com/subject/36791178/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 欢迎来龙餐馆
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+UID:35811064@douban-movie-calendar
+DESCRIPTION:电影：欢迎来龙餐馆\n类型：剧情 / 战争\n地区
+ ：中国大陆\n豆瓣链接：https://movie.douban.com/subject/35811064/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 奥德赛
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+UID:36808876@douban-movie-calendar
+DESCRIPTION:电影：奥德赛\n类型：动作 / 历史 / 奇幻\n地区
+ ：美国\n豆瓣链接：https://movie.douban.com/subject/36808876/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 逃出绝命街
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+UID:36318703@douban-movie-calendar
+DESCRIPTION:电影：逃出绝命街\n类型：动作 / 科幻 / 惊悚\n
+ 地区：美国\n豆瓣链接：https://movie.douban.com/subject/36318703/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 猫猫的奇幻漂流
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+UID:35603727@douban-movie-calendar
+DESCRIPTION:电影：猫猫的奇幻漂流\n类型：动画 / 奇幻 / 冒
+ 险\n地区：拉脱维亚\n豆瓣链接：https://movie.douban.com/subjec
+ t/35603727/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 不想失去你
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+UID:36779597@douban-movie-calendar
+DESCRIPTION:电影：不想失去你\n类型：剧情 / 爱情\n地区：
+ 中国大陆\n豆瓣链接：https://movie.douban.com/subject/36779597/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 偷偷喜欢你
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+UID:36994226@douban-movie-calendar
+DESCRIPTION:电影：偷偷喜欢你\n类型：剧情 / 爱情\n地区：
+ 中国台湾\n豆瓣链接：https://movie.douban.com/subject/36994226/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 我想留在你身边
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+UID:35390242@douban-movie-calendar
+DESCRIPTION:电影：我想留在你身边\n类型：爱情 / 奇幻\n地
+ 区：中国大陆\n豆瓣链接：https://movie.douban.com/subject/353902
+ 42/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 偷偷藏不住
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+UID:37452950@douban-movie-calendar
+DESCRIPTION:电影：偷偷藏不住\n类型：剧情 / 爱情\n地区：
+ 中国大陆\n豆瓣链接：https://movie.douban.com/subject/37452950/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 怒之杀
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+UID:36889088@douban-movie-calendar
+DESCRIPTION:电影：怒之杀\n类型：动作 / 犯罪 / 惊悚\n地区
+ ：英国\n豆瓣链接：https://movie.douban.com/subject/36889088/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 大唐妖探
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+UID:35464353@douban-movie-calendar
+DESCRIPTION:电影：大唐妖探\n类型：喜剧 / 动画 / 悬疑\n地
+ 区：中国大陆\n豆瓣链接：https://movie.douban.com/subject/354643
+ 53/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 密档
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+UID:35209727@douban-movie-calendar
+DESCRIPTION:电影：密档\n类型：剧情 / 悬疑\n地区：中国大
+ 陆\n豆瓣链接：https://movie.douban.com/subject/35209727/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 杀死比尔：血色全传
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+UID:10756537@douban-movie-calendar
+DESCRIPTION:电影：杀死比尔：血色全传\n类型：动作 / 犯罪
+ \n地区：美国\n豆瓣链接：https://movie.douban.com/subject/1075653
+ 7/
+END:VEVENT
+END:VCALENDAR
