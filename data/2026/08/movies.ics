@@ -6,31 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:豆瓣电影 - 2026年8月
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:🎬 去你的岛
-DTSTART;VALUE=DATE:20260807
-DTEND;VALUE=DATE:20260808
-UID:35275131@douban-movie-calendar
-DESCRIPTION:电影：去你的岛\n类型：爱情 / 动画 / 奇幻\n地
- 区：中国大陆\n豆瓣链接：https://movie.douban.com/subject/352751
- 31/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 冬旅人
-DTSTART;VALUE=DATE:20260807
-DTEND;VALUE=DATE:20260808
-UID:35201478@douban-movie-calendar
-DESCRIPTION:电影：冬旅人\n类型：剧情 / 家庭\n地区：中国
- 大陆\n豆瓣链接：https://movie.douban.com/subject/35201478/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 林家宅37号
-DTSTART;VALUE=DATE:20260807
-DTEND;VALUE=DATE:20260808
-UID:37435260@douban-movie-calendar
-DESCRIPTION:电影：林家宅37号\n类型：悬疑 / 惊悚\n地区：
- 中国大陆\n豆瓣链接：https://movie.douban.com/subject/37435260/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎬 汪汪队立大功大电影3：勇闯恐龙岛
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
