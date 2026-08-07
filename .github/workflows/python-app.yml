@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: 检出代码仓库
         uses: actions/checkout@v4
+        with:
+          ref: master
 
       - name: 设置 Python 环境
         uses: actions/setup-python@v5
@@ -35,4 +37,4 @@ jobs:
         with:
           commit_message: 'chore: 更新电影日历数据'
           file_pattern: 'data/**/*.ics data/*.ics'
-          branch: main
+          branch: master
