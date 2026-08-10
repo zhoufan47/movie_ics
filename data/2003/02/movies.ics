@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 2003年2月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 早春二月 ⭐8.3
+DTSTART;VALUE=DATE:20030214
+DTEND;VALUE=DATE:20030215
+UID:1438425@douban-movie-calendar
+DESCRIPTION:电影：早春二月\n状态：正在影院上映\n豆瓣评
+ 分：8.3\n地区：泰国\n导演：由拉特·史帕克\n豆瓣链接：
+ https://movie.douban.com/subject/1438425/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 1986年11月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 坏血 ⭐7.9
+DTSTART;VALUE=DATE:19861126
+DTEND;VALUE=DATE:19861127
+UID:1301678@douban-movie-calendar
+DESCRIPTION:电影：坏血\n状态：正在影院上映\n豆瓣评分：7
+ .9\n地区：瑞士 法国\n导演：莱奥·卡拉克斯\n豆瓣链接：
+ https://movie.douban.com/subject/1301678/
+END:VEVENT
+END:VCALENDAR

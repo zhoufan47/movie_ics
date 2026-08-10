@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 2010年3月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 岁月神偷 ⭐8.7
+DTSTART;VALUE=DATE:20100311
+DTEND;VALUE=DATE:20100312
+UID:3792799@douban-movie-calendar
+DESCRIPTION:电影：岁月神偷\n状态：正在影院上映\n豆瓣评
+ 分：8.7\n地区：中国香港 中国大陆\n导演：罗启锐\n豆瓣
+ 链接：https://movie.douban.com/subject/3792799/
+END:VEVENT
+END:VCALENDAR

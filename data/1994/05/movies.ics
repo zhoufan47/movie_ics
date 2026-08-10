@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 1994年5月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 蓝白红三部曲之红 ⭐8.8
+DTSTART;VALUE=DATE:19940512
+DTEND;VALUE=DATE:19940513
+UID:1292047@douban-movie-calendar
+DESCRIPTION:电影：蓝白红三部曲之红\n状态：正在影院上映
+ \n豆瓣评分：8.8\n地区：法国 波兰 瑞士\n导演：克日什托
+ 夫·基耶斯洛夫斯基\n豆瓣链接：https://movie.douban.com/subjec
+ t/1292047/
+END:VEVENT
+END:VCALENDAR

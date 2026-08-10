@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 1950年2月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 火山边缘之恋 ⭐7.7
+DTSTART;VALUE=DATE:19500215
+DTEND;VALUE=DATE:19500216
+UID:1294382@douban-movie-calendar
+DESCRIPTION:电影：火山边缘之恋\n状态：正在影院上映\n豆
+ 瓣评分：7.7\n地区：意大利 美国\n导演：罗伯托·罗西里
+ 尼\n豆瓣链接：https://movie.douban.com/subject/1294382/
+END:VEVENT
+END:VCALENDAR

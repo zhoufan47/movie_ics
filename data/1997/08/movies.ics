@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 1997年8月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 探戈课 ⭐8.1
+DTSTART;VALUE=DATE:19970829
+DTEND;VALUE=DATE:19970830
+UID:1306960@douban-movie-calendar
+DESCRIPTION:电影：探戈课\n状态：正在影院上映\n豆瓣评分
+ ：8.1\n地区：英国 法国 阿根廷 德国 荷兰\n导演：莎莉·
+ 波特\n豆瓣链接：https://movie.douban.com/subject/1306960/
+END:VEVENT
+END:VCALENDAR

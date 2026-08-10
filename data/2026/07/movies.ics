@@ -1,0 +1,117 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 2026年7月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 不成功穿越指南
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+UID:36823889@douban-movie-calendar
+DESCRIPTION:电影：不成功穿越指南\n状态：正在影院上映\n
+ 地区：中国大陆\n导演：冯一平 郝心悦\n豆瓣链接：https:
+ //movie.douban.com/subject/36823889/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 特立独行 ⭐6.7
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+UID:36953973@douban-movie-calendar
+DESCRIPTION:电影：特立独行\n状态：正在影院上映\n豆瓣评
+ 分：6.7\n地区：中国大陆\n导演：邢文雄\n豆瓣链接：https
+ ://movie.douban.com/subject/36953973/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 小黄人与大怪兽 ⭐6.7
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+UID:36962219@douban-movie-calendar
+DESCRIPTION:电影：小黄人与大怪兽\n状态：正在影院上映\n
+ 豆瓣评分：6.7\n地区：美国\n导演：皮埃尔·柯芬\n豆瓣链
+ 接：https://movie.douban.com/subject/36962219/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 三国第一部：争洛阳 ⭐8.0
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+UID:36752981@douban-movie-calendar
+DESCRIPTION:电影：三国第一部：争洛阳\n状态：正在影院上
+ 映\n豆瓣评分：8.0\n地区：中国大陆\n导演：谢君伟\n豆瓣
+ 链接：https://movie.douban.com/subject/36752981/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 功夫女足 ⭐6.4
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+UID:36452545@douban-movie-calendar
+DESCRIPTION:电影：功夫女足\n状态：正在影院上映\n豆瓣评
+ 分：6.4\n地区：中国大陆 中国香港\n导演：周星驰\n豆瓣
+ 链接：https://movie.douban.com/subject/36452545/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 恐怖游轮 ⭐8.5
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+UID:3011051@douban-movie-calendar
+DESCRIPTION:电影：恐怖游轮\n状态：正在影院上映\n豆瓣评
+ 分：8.5\n地区：英国 澳大利亚\n导演：克里斯托弗·史密
+ 斯\n豆瓣链接：https://movie.douban.com/subject/3011051/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 想你了 ⭐7.0
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+UID:37021936@douban-movie-calendar
+DESCRIPTION:电影：想你了\n状态：正在影院上映\n豆瓣评分
+ ：7.0\n地区：中国大陆\n导演：麻赢心\n豆瓣链接：https://
+ movie.douban.com/subject/37021936/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 八仙！ ⭐8.2
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+UID:36882191@douban-movie-calendar
+DESCRIPTION:电影：八仙！\n状态：正在影院上映\n豆瓣评分
+ ：8.2\n地区：中国大陆\n导演：牟正洋\n豆瓣链接：https://
+ movie.douban.com/subject/36882191/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 哈姆雷特 ⭐8.3
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+UID:26588017@douban-movie-calendar
+DESCRIPTION:电影：哈姆雷特\n状态：正在影院上映\n豆瓣评
+ 分：8.3\n地区：英国\n导演：林赛·特纳 罗宾·洛\n豆瓣链
+ 接：https://movie.douban.com/subject/26588017/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 痴迷 ⭐7.6
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+UID:37450627@douban-movie-calendar
+DESCRIPTION:电影：痴迷\n状态：正在影院上映\n豆瓣评分：7
+ .6\n地区：美国\n导演：库里·巴克\n豆瓣链接：https://movie
+ .douban.com/subject/37450627/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 悟空大圣
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+UID:38548860@douban-movie-calendar
+DESCRIPTION:电影：悟空大圣\n状态：正在影院上映\n地区：
+ 中国大陆\n导演：山岗 华特 菲尔·尼伯林克\n豆瓣链接：
+ https://movie.douban.com/subject/38548860/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 蜘蛛侠：崭新之日 ⭐7.8
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+UID:36246195@douban-movie-calendar
+DESCRIPTION:电影：蜘蛛侠：崭新之日\n状态：正在影院上映
+ \n豆瓣评分：7.8\n地区：美国 加拿大 英国 德国\n导演：
+ 德斯汀·丹尼尔·克雷顿\n豆瓣链接：https://movie.douban.com/s
+ ubject/36246195/
+END:VEVENT
+END:VCALENDAR

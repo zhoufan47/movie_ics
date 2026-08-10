@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 2025年5月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 狐步 ⭐7.0
+DTSTART;VALUE=DATE:20250517
+DTEND;VALUE=DATE:20250518
+UID:36430909@douban-movie-calendar
+DESCRIPTION:电影：狐步\n状态：正在影院上映\n豆瓣评分：7
+ .0\n地区：法国 比利时\n导演：瓦莱里·卡努瓦\n豆瓣链接
+ ：https://movie.douban.com/subject/36430909/
+END:VEVENT
+END:VCALENDAR

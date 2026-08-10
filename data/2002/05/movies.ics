@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 2002年5月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 祝福 ⭐7.8
+DTSTART;VALUE=DATE:20020516
+DTEND;VALUE=DATE:20020517
+UID:1307997@douban-movie-calendar
+DESCRIPTION:电影：祝福\n状态：正在影院上映\n豆瓣评分：7
+ .8\n地区：泰国 法国\n导演：阿彼察邦·韦拉斯哈古\n豆瓣
+ 链接：https://movie.douban.com/subject/1307997/
+END:VEVENT
+END:VCALENDAR

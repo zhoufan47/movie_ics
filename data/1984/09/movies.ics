@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 1984年9月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 似水流年 ⭐8.0
+DTSTART;VALUE=DATE:19840907
+DTEND;VALUE=DATE:19840908
+UID:1294139@douban-movie-calendar
+DESCRIPTION:电影：似水流年\n状态：正在影院上映\n豆瓣评
+ 分：8.0\n地区：中国香港 中国大陆\n导演：严浩\n豆瓣链
+ 接：https://movie.douban.com/subject/1294139/
+END:VEVENT
+END:VCALENDAR

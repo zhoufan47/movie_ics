@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 2023年5月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 蓝鲸：庞然大物归来
+DTSTART;VALUE=DATE:20230523
+DTEND;VALUE=DATE:20230524
+UID:36761980@douban-movie-calendar
+DESCRIPTION:电影：蓝鲸：庞然大物归来\n状态：正在影院上
+ 映\n地区：美国\n导演：Hugh Pearson\n豆瓣链接：https://movie.
+ douban.com/subject/36761980/
+END:VEVENT
+END:VCALENDAR

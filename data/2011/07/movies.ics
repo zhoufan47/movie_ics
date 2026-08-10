@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 2011年7月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 钢的琴 ⭐8.5
+DTSTART;VALUE=DATE:20110715
+DTEND;VALUE=DATE:20110716
+UID:4876722@douban-movie-calendar
+DESCRIPTION:电影：钢的琴\n状态：正在影院上映\n豆瓣评分
+ ：8.5\n地区：中国大陆\n导演：张猛\n豆瓣链接：https://mov
+ ie.douban.com/subject/4876722/
+END:VEVENT
+END:VCALENDAR

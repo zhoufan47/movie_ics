@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 1997年5月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 南海十三郎 ⭐9.3
+DTSTART;VALUE=DATE:19970515
+DTEND;VALUE=DATE:19970516
+UID:1303913@douban-movie-calendar
+DESCRIPTION:电影：南海十三郎\n状态：正在影院上映\n豆瓣
+ 评分：9.3\n地区：中国香港\n导演：高志森\n豆瓣链接：ht
+ tps://movie.douban.com/subject/1303913/
+END:VEVENT
+END:VCALENDAR

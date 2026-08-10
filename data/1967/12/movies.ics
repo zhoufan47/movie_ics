@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 1967年12月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 毕业生 ⭐8.0
+DTSTART;VALUE=DATE:19671222
+DTEND;VALUE=DATE:19671223
+UID:1292271@douban-movie-calendar
+DESCRIPTION:电影：毕业生\n状态：正在影院上映\n豆瓣评分
+ ：8.0\n地区：美国\n导演：迈克·尼科尔斯\n豆瓣链接：htt
+ ps://movie.douban.com/subject/1292271/
+END:VEVENT
+END:VCALENDAR

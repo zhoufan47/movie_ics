@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 2026年6月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 诺曼底72小时 ⭐8.2
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+UID:36916000@douban-movie-calendar
+DESCRIPTION:电影：诺曼底72小时\n状态：正在影院上映\n豆
+ 瓣评分：8.2\n地区：英国 法国 美国\n导演：安东尼·马拉
+ 斯\n豆瓣链接：https://movie.douban.com/subject/36916000/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 火遮眼 ⭐7.7
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+UID:36877245@douban-movie-calendar
+DESCRIPTION:电影：火遮眼\n状态：正在影院上映\n豆瓣评分
+ ：7.7\n地区：中国香港 中国大陆\n导演：谷垣健治\n豆瓣
+ 链接：https://movie.douban.com/subject/36877245/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 抓特务 ⭐7.4
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+UID:36812879@douban-movie-calendar
+DESCRIPTION:电影：抓特务\n状态：正在影院上映\n豆瓣评分
+ ：7.4\n地区：中国大陆\n导演：冯小刚\n豆瓣链接：https://
+ movie.douban.com/subject/36812879/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 玩具总动员5 ⭐8.0
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+UID:36238849@douban-movie-calendar
+DESCRIPTION:电影：玩具总动员5\n状态：正在影院上映\n豆瓣
+ 评分：8.0\n地区：美国\n导演：安德鲁·斯坦顿 麦肯纳·
+ 哈里斯\n豆瓣链接：https://movie.douban.com/subject/36238849/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 我看见两朵一样的云 ⭐5.6
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+UID:35211447@douban-movie-calendar
+DESCRIPTION:电影：我看见两朵一样的云\n状态：正在影院上
+ 映\n豆瓣评分：5.6\n地区：中国大陆\n导演：严艺之\n豆瓣
+ 链接：https://movie.douban.com/subject/35211447/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 关索岭
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+UID:34786813@douban-movie-calendar
+DESCRIPTION:电影：关索岭\n状态：正在影院上映\n地区：中
+ 国大陆\n导演：余伟国\n豆瓣链接：https://movie.douban.com/sub
+ ject/34786813/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 四渡
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+UID:37191746@douban-movie-calendar
+DESCRIPTION:电影：四渡\n状态：正在影院上映\n地区：中国
+ 大陆\n导演：徐展雄\n豆瓣链接：https://movie.douban.com/subjec
+ t/37191746/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 北回归线以北
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+UID:36941236@douban-movie-calendar
+DESCRIPTION:电影：北回归线以北\n状态：正在影院上映\n地
+ 区：中国大陆\n导演：赵汉唐\n豆瓣链接：https://movie.douba
+ n.com/subject/36941236/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 续范亭将军
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+UID:37234431@douban-movie-calendar
+DESCRIPTION:电影：续范亭将军\n状态：正在影院上映\n地区
+ ：中国大陆\n导演：赵建平 伍松\n豆瓣链接：https://movie.d
+ ouban.com/subject/37234431/
+END:VEVENT
+END:VCALENDAR

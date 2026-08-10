@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 1961年8月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 去年在马里昂巴德 ⭐8.2
+DTSTART;VALUE=DATE:19610829
+DTEND;VALUE=DATE:19610830
+UID:1400240@douban-movie-calendar
+DESCRIPTION:电影：去年在马里昂巴德\n状态：正在影院上映
+ \n豆瓣评分：8.2\n地区：法国 意大利\n导演：阿伦·雷乃\n
+ 豆瓣链接：https://movie.douban.com/subject/1400240/
+END:VEVENT
+END:VCALENDAR

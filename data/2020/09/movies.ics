@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 2020年9月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 夺冠 ⭐7.1
+DTSTART;VALUE=DATE:20200925
+DTEND;VALUE=DATE:20200926
+UID:30128916@douban-movie-calendar
+DESCRIPTION:电影：夺冠\n状态：正在影院上映\n豆瓣评分：7
+ .1\n地区：中国大陆\n导演：陈可辛\n豆瓣链接：https://movi
+ e.douban.com/subject/30128916/
+END:VEVENT
+END:VCALENDAR

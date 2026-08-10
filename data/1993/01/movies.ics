@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 1993年1月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 亚利桑那之梦 ⭐7.9
+DTSTART;VALUE=DATE:19930106
+DTEND;VALUE=DATE:19930107
+UID:1293191@douban-movie-calendar
+DESCRIPTION:电影：亚利桑那之梦\n状态：正在影院上映\n豆
+ 瓣评分：7.9\n地区：美国 法国\n导演：埃米尔·库斯图里
+ 察\n豆瓣链接：https://movie.douban.com/subject/1293191/
+END:VEVENT
+END:VCALENDAR

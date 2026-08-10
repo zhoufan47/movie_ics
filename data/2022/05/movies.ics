@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 2022年5月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 晒后假日 ⭐8.2
+DTSTART;VALUE=DATE:20220521
+DTEND;VALUE=DATE:20220522
+UID:35876302@douban-movie-calendar
+DESCRIPTION:电影：晒后假日\n状态：正在影院上映\n豆瓣评
+ 分：8.2\n地区：英国 美国\n导演：夏洛特·威尔斯\n豆瓣
+ 链接：https://movie.douban.com/subject/35876302/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 1964年7月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 法外之徒 ⭐8.4
+DTSTART;VALUE=DATE:19640729
+DTEND;VALUE=DATE:19640730
+UID:1401588@douban-movie-calendar
+DESCRIPTION:电影：法外之徒\n状态：正在影院上映\n豆瓣评
+ 分：8.4\n地区：法国\n导演：让-吕克·戈达尔\n豆瓣链接
+ ：https://movie.douban.com/subject/1401588/
+END:VEVENT
+END:VCALENDAR
