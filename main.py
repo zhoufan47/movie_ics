@@ -12,6 +12,7 @@
 
 import os
 import re
+import time
 import uuid
 import glob
 import logging
@@ -47,6 +48,14 @@ HEADERS = {
 SEARCH_API = 'https://movie.douban.com/j/search_subjects'
 CINEMA_LATER_URL = 'https://movie.douban.com/cinema/later/beijing/'
 CINEMA_NOWPLAYING_URL = 'https://movie.douban.com/cinema/nowplaying/beijing/'
+
+# 详情页（移动端）：PC 端详情页会被安全验证拦截，移动端页面可正常访问
+MOBILE_SUBJECT_URL = 'https://m.douban.com/movie/subject/{sid}/'
+MOBILE_UA = (
+    'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) '
+    'AppleWebKit/605.1.15 (KHTML, like Gecko) '
+    'Version/17.0 Mobile/15E148 Safari/604.1'
+)
 
 
 # ---------------------------------------------------------------------------
@@ -207,7 +216,60 @@ class DoubanMovieScraper:
                 continue
 
         logger.info('成功解析 %d 部正在上映的电影', len(movies))
+
+        # 从影片详情页补全完整上映日期（列表页只有年份）
+        self._fill_release_dates(movies)
+
         return sorted(movies, key=lambda m: m['date'])
+
+    def _fill_release_dates(self, movies: list[dict]):
+        """
+        逐部访问影片移动端详情页，从 sub-meta 中提取完整上映日期
+        （格式如："... / 2026-07-29(中国大陆)上映 / 片长145分钟"）。
+        获取失败的电影保留当天日期。
+        """
+        targets = [m for m in movies if m.get('id')]
+        logger.info('正在从详情页补全 %d 部电影的上映日期 ...', len(targets))
+        success = 0
+
+        for i, movie in enumerate(targets, 1):
+            release_date = self._fetch_release_date(movie['id'])
+            if release_date:
+                movie['date'] = release_date
+                movie['release_year'] = ''
+                success += 1
+            logger.info('详情进度 %d/%d：%s -> %s',
+                        i, len(targets), movie['title'],
+                        release_date or '未获取到')
+            time.sleep(1)  # 限速，避免触发反爬
+
+        logger.info('成功补全 %d/%d 部电影的上映日期', success, len(targets))
+
+    def _fetch_release_date(self, sid: str) -> date | None:
+        """从影片移动端详情页提取上映日期，失败返回 None"""
+        try:
+            resp = self.session.get(
+                MOBILE_SUBJECT_URL.format(sid=sid),
+                headers={'User-Agent': MOBILE_UA},
+                timeout=20
+            )
+            resp.raise_for_status()
+        except Exception as exc:
+            logger.debug('获取详情页失败 (subject %s): %s', sid, exc)
+            return None
+
+        soup = BeautifulSoup(resp.text, 'lxml')
+        meta_el = soup.select_one('.sub-meta')
+        meta_text = meta_el.get_text(' ', strip=True) if meta_el else resp.text
+
+        # 匹配 "2026-07-29(中国大陆)上映" 或 "2026-07-29上映"
+        m = re.search(r'(\d{4})-(\d{1,2})-(\d{1,2})(?:\([^)]*\))?上映', meta_text)
+        if not m:
+            return None
+        try:
+            return date(int(m.group(1)), int(m.group(2)), int(m.group(3)))
+        except ValueError:
+            return None
 
     def _parse_nowplaying_item(self, item) -> dict | None:
         """解析正在上映页面中的单个电影条目（信息存放在 li 的 data-* 属性中）"""
@@ -360,8 +422,6 @@ class ICSGenerator:
         desc_parts = [f'电影：{movie["title"]}']
         if movie.get('now_playing'):
             desc_parts.append('状态：正在影院上映')
-            if movie.get('release_year'):
-                desc_parts.append(f'上映年份：{movie["release_year"]}')
         if movie.get('rating') and movie['rating'] not in ('', '0', '0.0'):
             desc_parts.append(f'豆瓣评分：{movie["rating"]}')
         if movie.get('genres'):
@@ -472,7 +532,8 @@ def _merge_all_movies():
     """
     data_dir = os.path.join(BASE_DIR, 'data')
     pattern  = os.path.join(data_dir, '*', '*', 'movies.ics')
-    ics_files = sorted(glob.glob(pattern))
+    # 倒序合并：较新的月度文件优先，UID 重复时保留新数据
+    ics_files = sorted(glob.glob(pattern), reverse=True)
 
     if not ics_files:
         logger.warning('未找到任何月度 ICS 文件，跳过汇总')
@@ -480,6 +541,7 @@ def _merge_all_movies():
 
     gen = ICSGenerator(cal_name='豆瓣电影上映日历')
     total = 0
+    seen_uids = set()
 
     for filepath in ics_files:
         try:
@@ -487,9 +549,16 @@ def _merge_all_movies():
                 source_cal = Calendar.from_ical(f.read())
 
             for component in source_cal.walk():
-                if component.name == 'VEVENT':
-                    gen.cal.add_component(component)
-                    total += 1
+                if component.name != 'VEVENT':
+                    continue
+                # 按 UID 去重：同一部电影在旧月度文件中的事件会被新数据覆盖
+                uid = str(component.get('uid', ''))
+                if uid and uid in seen_uids:
+                    continue
+                if uid:
+                    seen_uids.add(uid)
+                gen.cal.add_component(component)
+                total += 1
 
             logger.info('已合并: %s', os.path.relpath(filepath, BASE_DIR))
         except Exception as exc:
