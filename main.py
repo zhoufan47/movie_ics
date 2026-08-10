@@ -6,6 +6,7 @@
 
 数据来源：
   - 主数据源：豆瓣影院即将上映页面（cinema/later）
+  - 数据源二：豆瓣影院正在上映页面（cinema/nowplaying）
   - 补充数据源：豆瓣搜索接口（search_subjects）
 """
 
@@ -45,6 +46,7 @@ HEADERS = {
 
 SEARCH_API = 'https://movie.douban.com/j/search_subjects'
 CINEMA_LATER_URL = 'https://movie.douban.com/cinema/later/beijing/'
+CINEMA_NOWPLAYING_URL = 'https://movie.douban.com/cinema/nowplaying/beijing/'
 
 
 # ---------------------------------------------------------------------------
@@ -169,6 +171,91 @@ class DoubanMovieScraper:
             return None
 
     # ------------------------------------------------------------------
+    # 数据源二：影院正在上映页面
+    # ------------------------------------------------------------------
+
+    def fetch_cinema_nowplaying(self) -> list[dict]:
+        """
+        从豆瓣影院正在上映页面抓取当前正在上映的电影数据。
+        页面地址：https://movie.douban.com/cinema/nowplaying/beijing/
+        返回格式：[{title, id, date, rating, genres, region, cover, ...}, ...]
+        """
+        logger.info('正在抓取豆瓣影院正在上映页面 ...')
+        try:
+            resp = self.session.get(CINEMA_NOWPLAYING_URL, timeout=30)
+            resp.raise_for_status()
+        except Exception as exc:
+            logger.error('抓取影院正在上映页面失败: %s', exc)
+            return []
+
+        soup = BeautifulSoup(resp.text, 'lxml')
+        items = soup.select('#nowplaying li.list-item') or soup.select('li.list-item')
+        if not items:
+            logger.warning('正在上映页面未找到电影条目')
+            return []
+
+        logger.info('正在上映页面共找到 %d 个条目', len(items))
+        movies = []
+
+        for item in items:
+            try:
+                movie = self._parse_nowplaying_item(item)
+                if movie:
+                    movies.append(movie)
+            except Exception as exc:
+                logger.debug('解析正在上映条目失败: %s', exc)
+                continue
+
+        logger.info('成功解析 %d 部正在上映的电影', len(movies))
+        return sorted(movies, key=lambda m: m['date'])
+
+    def _parse_nowplaying_item(self, item) -> dict | None:
+        """解析正在上映页面中的单个电影条目（信息存放在 li 的 data-* 属性中）"""
+        title = item.get('data-title', '').strip()
+        if not title:
+            return None
+
+        # 上映日期：该页面 data-release 通常只有年份（如 "2026"），
+        # 无法获得完整上映日期时以当天作为事件日期（表示“正在上映”）
+        release_str = item.get('data-release', '').strip()
+        m = re.match(r'(\d{4})-(\d{1,2})-(\d{1,2})', release_str)
+        if m:
+            try:
+                release_date = date(int(m.group(1)), int(m.group(2)), int(m.group(3)))
+            except ValueError:
+                release_date = date.today()
+        else:
+            release_date = date.today()
+
+        # subject id：优先 data-subject 属性，其次从链接中提取
+        movie_id = item.get('data-subject', '').strip()
+        if not movie_id:
+            link = item.select_one('a[href*="/subject/"]')
+            if link:
+                sid_match = re.search(r'/subject/(\d+)', link.get('href', ''))
+                movie_id = sid_match.group(1) if sid_match else ''
+
+        # 海报图片
+        cover = ''
+        img = item.select_one('img')
+        if img:
+            cover = img.get('src', '') or img.get('data-src', '') or ''
+
+        return {
+            'id':           movie_id,
+            'title':        title,
+            'date':         release_date,
+            'rating':       item.get('data-score', '').strip(),
+            'cover':        cover,
+            'genres':       '',  # 该页面 data-category 为 "nowplaying"，非电影类型
+            'region':       item.get('data-region', '').strip(),
+            'actors':       item.get('data-actor', '').strip(),
+            'directors':    item.get('data-director', '').strip(),
+            'now_playing':  True,
+            'release_year': release_str if len(release_str) == 4 else '',
+        }
+
+    # ------------------------------------------------------------------
     # 补充数据源：搜索接口
     # ------------------------------------------------------------------
 
@@ -271,6 +358,10 @@ class ICSGenerator:
 
         # 描述信息
         desc_parts = [f'电影：{movie["title"]}']
+        if movie.get('now_playing'):
+            desc_parts.append('状态：正在影院上映')
+            if movie.get('release_year'):
+                desc_parts.append(f'上映年份：{movie["release_year"]}')
         if movie.get('rating') and movie['rating'] not in ('', '0', '0.0'):
             desc_parts.append(f'豆瓣评分：{movie["rating"]}')
         if movie.get('genres'):
@@ -320,37 +411,39 @@ def main():
     scraper = DoubanMovieScraper()
 
     # ------------------------------------------------------------------
-    # 抓取影院即将上映数据（包含当月和下月）
+    # 抓取即将上映 + 正在上映数据
     # ------------------------------------------------------------------
-    all_movies = scraper.fetch_cinema_later()
+    later_movies = scraper.fetch_cinema_later()
+    nowplaying_movies = scraper.fetch_cinema_nowplaying()
+
+    # 合并去重（优先按豆瓣 id，其次按标题）
+    all_movies = []
+    seen_keys = set()
+    for movie in later_movies + nowplaying_movies:
+        key = movie['id'] or movie['title']
+        if key in seen_keys:
+            continue
+        seen_keys.add(key)
+        all_movies.append(movie)
+    logger.info('合并去重后共 %d 部电影（即将上映 %d 部 + 正在上映 %d 部）',
+                len(all_movies), len(later_movies), len(nowplaying_movies))
 
     # ------------------------------------------------------------------
-    # 处理当月
+    # 按上映月份分组并保存（正在上映的电影可能来自往月）
     # ------------------------------------------------------------------
-    current_movies = [
-        m for m in all_movies
-        if m['date'].year == year and m['date'].month == month
-    ]
-    logger.info('%d年%d月 共 %d 部电影（来自影院页面）', year, month, len(current_movies))
+    monthly_movies: dict[tuple[int, int], list[dict]] = {}
+    for movie in all_movies:
+        key = (movie['date'].year, movie['date'].month)
+        monthly_movies.setdefault(key, []).append(movie)
 
-    if current_movies:
-        _save_ics(year, month, current_movies)
-    else:
-        logger.warning('%d年%d月 未获取到电影数据', year, month)
+    for (y, mo) in sorted(monthly_movies):
+        movies = monthly_movies[(y, mo)]
+        logger.info('%d年%d月 共 %d 部电影', y, mo, len(movies))
+        _save_ics(y, mo, movies)
 
-    # ------------------------------------------------------------------
-    # 处理下月
-    # ------------------------------------------------------------------
-    next_movies = [
-        m for m in all_movies
-        if m['date'].year == next_year and m['date'].month == next_month
-    ]
-    logger.info('%d年%d月 共 %d 部电影（来自影院页面）', next_year, next_month, len(next_movies))
-
-    if next_movies:
-        _save_ics(next_year, next_month, next_movies)
-    else:
-        logger.warning('%d年%d月 未获取到电影数据', next_year, next_month)
+    for y, mo in ((year, month), (next_year, next_month)):
+        if (y, mo) not in monthly_movies:
+            logger.warning('%d年%d月 未获取到电影数据', y, mo)
 
     # ------------------------------------------------------------------
     # 汇总所有月度数据到一个 ICS 文件
