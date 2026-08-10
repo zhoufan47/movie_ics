@@ -6,15 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:豆瓣电影 - 2026年8月
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:🎬 汪汪队立大功大电影3：勇闯恐龙岛
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260809
-UID:36791178@douban-movie-calendar
-DESCRIPTION:电影：汪汪队立大功大电影3：勇闯恐龙岛\n类
- 型：喜剧 / 科幻 / 动画\n地区：加拿大\n豆瓣链接：https:/
- /movie.douban.com/subject/36791178/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎬 欢迎来龙餐馆
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
@@ -39,13 +30,21 @@ DESCRIPTION:电影：逃出绝命街\n类型：动作 / 科幻 / 惊悚\n
  地区：美国\n豆瓣链接：https://movie.douban.com/subject/36318703/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 猫猫的奇幻漂流
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-UID:35603727@douban-movie-calendar
-DESCRIPTION:电影：猫猫的奇幻漂流\n类型：动画 / 奇幻 / 冒
- 险\n地区：拉脱维亚\n豆瓣链接：https://movie.douban.com/subjec
- t/35603727/
+SUMMARY:🎬 最小的大片
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+UID:37248641@douban-movie-calendar
+DESCRIPTION:电影：最小的大片\n类型：儿童 / 喜剧\n地区：
+ 中国大陆\n豆瓣链接：https://movie.douban.com/subject/37248641/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 机器人总动员
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+UID:2131459@douban-movie-calendar
+DESCRIPTION:电影：机器人总动员\n类型：科幻 / 动画 / 冒险
+ \n地区：美国\n豆瓣链接：https://movie.douban.com/subject/2131459
+ /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 不想失去你
@@ -98,11 +97,27 @@ DESCRIPTION:电影：大唐妖探\n类型：喜剧 / 动画 / 悬疑\n地
  53/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎬 肖申克的救赎
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+UID:1292052@douban-movie-calendar
+DESCRIPTION:电影：肖申克的救赎\n类型：犯罪 / 剧情\n地区
+ ：美国\n豆瓣链接：https://movie.douban.com/subject/1292052/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎬 密档
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 UID:35209727@douban-movie-calendar
 DESCRIPTION:电影：密档\n类型：剧情 / 悬疑\n地区：中国大
  陆\n豆瓣链接：https://movie.douban.com/subject/35209727/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 时代宠儿
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+UID:38592284@douban-movie-calendar
+DESCRIPTION:电影：时代宠儿\n类型：剧情 / 爱情\n地区：中
+ 国大陆\n豆瓣链接：https://movie.douban.com/subject/38592284/
 END:VEVENT
 END:VCALENDAR
