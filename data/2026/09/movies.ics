@@ -6,12 +6,182 @@ METHOD:PUBLISH
 X-WR-CALNAME:豆瓣电影 - 2026年9月
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:🎬 杀死比尔：血色全传
+SUMMARY:🎬 浪花儿
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+UID:37527015@douban-movie-calendar
+DESCRIPTION:电影：浪花儿\n类型：纪录片\n地区：中国大陆
+ \n豆瓣链接：https://movie.douban.com/subject/37527015/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 我想留在你身边
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+UID:35390242@douban-movie-calendar
+DESCRIPTION:电影：我想留在你身边\n类型：爱情 / 奇幻\n地
+ 区：中国大陆\n豆瓣链接：https://movie.douban.com/subject/353902
+ 42/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 偷偷喜欢你
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+UID:36994226@douban-movie-calendar
+DESCRIPTION:电影：偷偷喜欢你\n类型：剧情 / 爱情\n地区：
+ 中国台湾\n豆瓣链接：https://movie.douban.com/subject/36994226/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 床下有人4
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+UID:36961914@douban-movie-calendar
+DESCRIPTION:电影：床下有人4\n类型：悬疑 / 惊悚\n地区：中
+ 国大陆\n豆瓣链接：https://movie.douban.com/subject/36961914/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 目不转睛
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+UID:37517044@douban-movie-calendar
+DESCRIPTION:电影：目不转睛\n类型：悬疑\n地区：中国大陆
+ \n豆瓣链接：https://movie.douban.com/subject/37517044/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 一路超平安
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+UID:36192993@douban-movie-calendar
+DESCRIPTION:电影：一路超平安\n类型：喜剧\n地区：中国大
+ 陆\n豆瓣链接：https://movie.douban.com/subject/36192993/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 那些年我们的初恋
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+UID:35027221@douban-movie-calendar
+DESCRIPTION:电影：那些年我们的初恋\n类型：爱情\n地区：
+ 中国大陆\n豆瓣链接：https://movie.douban.com/subject/35027221/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 明月照他乡
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+UID:37406669@douban-movie-calendar
+DESCRIPTION:电影：明月照他乡\n类型：纪录片\n地区：中国
+ 大陆\n豆瓣链接：https://movie.douban.com/subject/37406669/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 复仇者联盟4：终局之战
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+UID:26100958@douban-movie-calendar
+DESCRIPTION:电影：复仇者联盟4：终局之战\n类型：剧情 / 
+ 动作 / 科幻\n地区：美国\n豆瓣链接：https://movie.douban.com/
+ subject/26100958/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 老江湖
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+UID:35840408@douban-movie-calendar
+DESCRIPTION:电影：老江湖\n类型：喜剧 / 动作 / 犯罪\n地区
+ ：中国大陆\n豆瓣链接：https://movie.douban.com/subject/35840408/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 死亡禁区实录
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+UID:37380650@douban-movie-calendar
+DESCRIPTION:电影：死亡禁区实录\n类型：悬疑 / 惊悚 / 恐怖
+ \n地区：中国大陆\n豆瓣链接：https://movie.douban.com/subject/3
+ 7380650/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 铁达妮的号
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+UID:37144718@douban-movie-calendar
+DESCRIPTION:电影：铁达妮的号\n类型：剧情 / 喜剧\n地区：
+ 中国大陆\n豆瓣链接：https://movie.douban.com/subject/37144718/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 红衣新娘
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+UID:37407445@douban-movie-calendar
+DESCRIPTION:电影：红衣新娘\n类型：悬疑 / 惊悚 / 恐怖\n地
+ 区：中国大陆\n豆瓣链接：https://movie.douban.com/subject/374074
+ 45/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 野兽之心
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+UID:36828393@douban-movie-calendar
+DESCRIPTION:电影：野兽之心\n类型：剧情 / 动作 / 冒险\n地
+ 区：美国\n豆瓣链接：https://movie.douban.com/subject/36828393/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 正义必胜
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+UID:38188824@douban-movie-calendar
+DESCRIPTION:电影：正义必胜\n状态：正在影院上映\n地区：
+ 中国大陆\n豆瓣链接：https://movie.douban.com/subject/38188824/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 杀死比尔：血色全传 ⭐8.7
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 UID:10756537@douban-movie-calendar
-DESCRIPTION:电影：杀死比尔：血色全传\n类型：动作 / 犯罪
- \n地区：美国\n豆瓣链接：https://movie.douban.com/subject/1075653
- 7/
+DESCRIPTION:电影：杀死比尔：血色全传\n状态：正在影院上
+ 映\n豆瓣评分：8.7\n地区：美国\n导演：昆汀·塔伦蒂诺\n
+ 豆瓣链接：https://movie.douban.com/subject/10756537/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 坠落2：死点
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+UID:36318704@douban-movie-calendar
+DESCRIPTION:电影：坠落2：死点\n状态：正在影院上映\n地区
+ ：美国 英国\n导演：迈克尔·斯派瑞 彼得·斯派瑞\n豆瓣
+ 链接：https://movie.douban.com/subject/36318704/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 怪屋
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+UID:37427091@douban-movie-calendar
+DESCRIPTION:电影：怪屋\n状态：正在影院上映\n地区：中国
+ 大陆\n导演：王博伦\n豆瓣链接：https://movie.douban.com/subjec
+ t/37427091/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 燃烧吧！爸爸
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+UID:36903929@douban-movie-calendar
+DESCRIPTION:电影：燃烧吧！爸爸\n状态：正在影院上映\n地
+ 区：中国大陆\n导演：刘潇阳\n豆瓣链接：https://movie.douba
+ n.com/subject/36903929/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 大熊雨林 ⭐8.5
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+UID:33422507@douban-movie-calendar
+DESCRIPTION:电影：大熊雨林\n状态：正在影院上映\n豆瓣评
+ 分：8.5\n地区：加拿大\n导演：马克·格里菲斯 丽贝卡·
+ 乔根森 伊恩·麦卡利斯特\n豆瓣链接：https://movie.douban.com
+ /subject/33422507/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 红闪电
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+UID:37171813@douban-movie-calendar
+DESCRIPTION:电影：红闪电\n状态：正在影院上映\n地区：中
+ 国大陆\n导演：霍亮\n豆瓣链接：https://movie.douban.com/subjec
+ t/37171813/
 END:VEVENT
 END:VCALENDAR

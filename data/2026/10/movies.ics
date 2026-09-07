@@ -10,7 +10,7 @@ SUMMARY:🎬 象行记
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 UID:36464801@douban-movie-calendar
-DESCRIPTION:电影：象行记\n类型：纪录片\n地区：中国大陆\
- n豆瓣链接：https://movie.douban.com/subject/36464801/
+DESCRIPTION:电影：象行记\n类型：纪录片\n地区：中国大陆
+ \n豆瓣链接：https://movie.douban.com/subject/36464801/
 END:VEVENT
 END:VCALENDAR

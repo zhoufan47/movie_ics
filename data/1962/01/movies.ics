@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:豆瓣电影 - 1962年1月
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:🎬 祖与占 ⭐8.4
+SUMMARY:🎬 祖与占 ⭐8.3
 DTSTART;VALUE=DATE:19620123
 DTEND;VALUE=DATE:19620124
 UID:1292338@douban-movie-calendar
 DESCRIPTION:电影：祖与占\n状态：正在影院上映\n豆瓣评分
- ：8.4\n地区：法国\n导演：弗朗索瓦·特吕弗\n豆瓣链接：
+ ：8.3\n地区：法国\n导演：弗朗索瓦·特吕弗\n豆瓣链接：
  https://movie.douban.com/subject/1292338/
 END:VEVENT
 END:VCALENDAR

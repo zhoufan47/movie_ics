@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 2015年4月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 龙凤呈祥(京剧) ⭐8.4
+DTSTART;VALUE=DATE:20150423
+DTEND;VALUE=DATE:20150424
+UID:20645021@douban-movie-calendar
+DESCRIPTION:电影：龙凤呈祥(京剧)\n状态：正在影院上映\n
+ 豆瓣评分：8.4\n地区：中国大陆\n导演：保尔夫\n豆瓣链
+ 接：https://movie.douban.com/subject/20645021/
+END:VEVENT
+END:VCALENDAR
