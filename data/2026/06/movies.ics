@@ -6,39 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:豆瓣电影 - 2026年6月
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:🎬 那山那水
-DTSTART;VALUE=DATE:20260615
-DTEND;VALUE=DATE:20260616
-UID:38502416@douban-movie-calendar
-DESCRIPTION:电影：那山那水\n状态：正在影院上映\n地区：
- 中国大陆\n导演：陈子隽\n豆瓣链接：https://movie.douban.com/
- subject/38502416/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 抓特务 ⭐7.4
-DTSTART;VALUE=DATE:20260619
-DTEND;VALUE=DATE:20260620
-UID:36812879@douban-movie-calendar
-DESCRIPTION:电影：抓特务\n状态：正在影院上映\n豆瓣评分
- ：7.4\n地区：中国大陆\n导演：冯小刚\n豆瓣链接：https://
- movie.douban.com/subject/36812879/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 玩具总动员5 ⭐8.0
-DTSTART;VALUE=DATE:20260619
-DTEND;VALUE=DATE:20260620
-UID:36238849@douban-movie-calendar
-DESCRIPTION:电影：玩具总动员5\n状态：正在影院上映\n豆瓣
- 评分：8.0\n地区：美国\n导演：安德鲁·斯坦顿 麦肯纳·
- 哈里斯\n豆瓣链接：https://movie.douban.com/subject/36238849/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 四渡
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260627
-UID:37191746@douban-movie-calendar
-DESCRIPTION:电影：四渡\n状态：正在影院上映\n地区：中国
- 大陆\n导演：徐展雄\n豆瓣链接：https://movie.douban.com/subjec
- t/37191746/
+SUMMARY:🎬 诺曼底72小时 ⭐8.2
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+UID:36916000@douban-movie-calendar
+DESCRIPTION:电影：诺曼底72小时\n状态：正在影院上映\n豆
+ 瓣评分：8.2\n地区：英国 法国 美国\n导演：安东尼·马拉
+ 斯\n豆瓣链接：https://movie.douban.com/subject/36916000/
 END:VEVENT
 END:VCALENDAR

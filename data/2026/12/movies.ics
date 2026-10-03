@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 2026年12月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 活久久
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+UID:38443833@douban-movie-calendar
+DESCRIPTION:电影：活久久\n类型：剧情 / 爱情\n地区：中国
+ 大陆\n豆瓣链接：https://movie.douban.com/subject/38443833/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 狼牙行动
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+UID:38412138@douban-movie-calendar
+DESCRIPTION:电影：狼牙行动\n类型：动作 / 犯罪\n地区：中
+ 国大陆\n豆瓣链接：https://movie.douban.com/subject/38412138/
+END:VEVENT
+END:VCALENDAR

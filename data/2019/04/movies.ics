@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 2019年4月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 复仇者联盟4：终局之战 ⭐8.5
+DTSTART;VALUE=DATE:20190424
+DTEND;VALUE=DATE:20190425
+UID:26100958@douban-movie-calendar
+DESCRIPTION:电影：复仇者联盟4：终局之战\n状态：正在影
+ 院上映\n豆瓣评分：8.5\n地区：美国\n导演：安东尼·罗素
+  乔·罗素\n豆瓣链接：https://movie.douban.com/subject/26100958/
+END:VEVENT
+END:VCALENDAR

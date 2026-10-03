@@ -15,6 +15,63 @@ DESCRIPTION:电影：流浪地球3(上)\n类型：科幻 / 冒险 / 灾难
  6212391/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎬 活久久
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+UID:38443833@douban-movie-calendar
+DESCRIPTION:电影：活久久\n类型：剧情 / 爱情\n地区：中国
+ 大陆\n豆瓣链接：https://movie.douban.com/subject/38443833/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 狼牙行动
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+UID:38412138@douban-movie-calendar
+DESCRIPTION:电影：狼牙行动\n类型：动作 / 犯罪\n地区：中
+ 国大陆\n豆瓣链接：https://movie.douban.com/subject/38412138/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 试探
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+UID:35068655@douban-movie-calendar
+DESCRIPTION:电影：试探\n类型：剧情 / 悬疑 / 惊悚\n地区：
+ 中国大陆\n豆瓣链接：https://movie.douban.com/subject/35068655/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 生化危机：爆发夜
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+UID:37068446@douban-movie-calendar
+DESCRIPTION:电影：生化危机：爆发夜\n类型：科幻 / 惊悚 / 
+ 恐怖\n地区：德国\n豆瓣链接：https://movie.douban.com/subject/3
+ 7068446/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 一个夜晚与三个夏天
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+UID:36449264@douban-movie-calendar
+DESCRIPTION:电影：一个夜晚与三个夏天\n类型：剧情\n地区
+ ：中国大陆\n豆瓣链接：https://movie.douban.com/subject/36449264/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 鲸口脱险
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+UID:36806762@douban-movie-calendar
+DESCRIPTION:电影：鲸口脱险\n类型：剧情 / 惊悚 / 冒险\n地
+ 区：美国\n豆瓣链接：https://movie.douban.com/subject/36806762/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 生日快乐
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+UID:37322586@douban-movie-calendar
+DESCRIPTION:电影：生日快乐\n类型：剧情\n地区：埃及\n豆
+ 瓣链接：https://movie.douban.com/subject/37322586/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎬 象行记
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
@@ -23,128 +80,85 @@ DESCRIPTION:电影：象行记\n类型：纪录片\n地区：中国大陆
  \n豆瓣链接：https://movie.douban.com/subject/36464801/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 浪花儿
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-UID:37527015@douban-movie-calendar
-DESCRIPTION:电影：浪花儿\n类型：纪录片\n地区：中国大陆
- \n豆瓣链接：https://movie.douban.com/subject/37527015/
+SUMMARY:🎬 三星堆：未来往事
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+UID:37509917@douban-movie-calendar
+DESCRIPTION:电影：三星堆：未来往事\n类型：科幻 / 动画\n
+ 地区：中国大陆\n豆瓣链接：https://movie.douban.com/subject/375
+ 09917/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 我想留在你身边
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-UID:35390242@douban-movie-calendar
-DESCRIPTION:电影：我想留在你身边\n类型：爱情 / 奇幻\n地
- 区：中国大陆\n豆瓣链接：https://movie.douban.com/subject/353902
- 42/
+SUMMARY:🎬 疾速追杀
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+UID:25798131@douban-movie-calendar
+DESCRIPTION:电影：疾速追杀\n类型：动作 / 犯罪 / 惊悚\n地
+ 区：美国\n豆瓣链接：https://movie.douban.com/subject/25798131/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 偷偷喜欢你
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-UID:36994226@douban-movie-calendar
-DESCRIPTION:电影：偷偷喜欢你\n类型：剧情 / 爱情\n地区：
- 中国台湾\n豆瓣链接：https://movie.douban.com/subject/36994226/
+SUMMARY:🎬 神探之痕迹‎ ⭐6.8
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+UID:37247814@douban-movie-calendar
+DESCRIPTION:电影：神探之痕迹‎\n状态：正在影院上映\n豆
+ 瓣评分：6.8\n地区：中国大陆\n导演：陈思诚\n豆瓣链接
+ ：https://movie.douban.com/subject/37247814/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 床下有人4
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-UID:36961914@douban-movie-calendar
-DESCRIPTION:电影：床下有人4\n类型：悬疑 / 惊悚\n地区：中
- 国大陆\n豆瓣链接：https://movie.douban.com/subject/36961914/
+SUMMARY:🎬 什么意思夫妇
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+UID:37667015@douban-movie-calendar
+DESCRIPTION:电影：什么意思夫妇\n状态：正在影院上映\n地
+ 区：中国大陆\n导演：沈春阳\n豆瓣链接：https://movie.douba
+ n.com/subject/37667015/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 目不转睛
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-UID:37517044@douban-movie-calendar
-DESCRIPTION:电影：目不转睛\n类型：悬疑\n地区：中国大陆
- \n豆瓣链接：https://movie.douban.com/subject/37517044/
+SUMMARY:🎬 活色生香
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+UID:37899051@douban-movie-calendar
+DESCRIPTION:电影：活色生香\n状态：正在影院上映\n地区：
+ 中国大陆\n导演：罗冬\n豆瓣链接：https://movie.douban.com/sub
+ ject/37899051/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 一路超平安
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-UID:36192993@douban-movie-calendar
-DESCRIPTION:电影：一路超平安\n类型：喜剧\n地区：中国大
- 陆\n豆瓣链接：https://movie.douban.com/subject/36192993/
+SUMMARY:🎬 侦战 ⭐4.3
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+UID:36912789@douban-movie-calendar
+DESCRIPTION:电影：侦战\n状态：正在影院上映\n豆瓣评分：4
+ .3\n地区：中国香港 中国大陆\n导演：孔令政\n豆瓣链接
+ ：https://movie.douban.com/subject/36912789/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 那些年我们的初恋
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-UID:35027221@douban-movie-calendar
-DESCRIPTION:电影：那些年我们的初恋\n类型：爱情\n地区：
- 中国大陆\n豆瓣链接：https://movie.douban.com/subject/35027221/
+SUMMARY:🎬 小猪佩奇·完美假期
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+UID:36964833@douban-movie-calendar
+DESCRIPTION:电影：小猪佩奇·完美假期\n状态：正在影院上
+ 映\n地区：中国大陆 英国\n导演：刘源\n豆瓣链接：https:/
+ /movie.douban.com/subject/36964833/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 明月照他乡
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-UID:37406669@douban-movie-calendar
-DESCRIPTION:电影：明月照他乡\n类型：纪录片\n地区：中国
- 大陆\n豆瓣链接：https://movie.douban.com/subject/37406669/
+SUMMARY:🎬 新大头儿子和小头爸爸之天眼系列：失控的第
+ 七天
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+UID:38902940@douban-movie-calendar
+DESCRIPTION:电影：新大头儿子和小头爸爸之天眼系列：失
+ 控的第七天\n状态：正在影院上映\n地区：中国大陆\n豆
+ 瓣链接：https://movie.douban.com/subject/38902940/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 复仇者联盟4：终局之战
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-UID:26100958@douban-movie-calendar
-DESCRIPTION:电影：复仇者联盟4：终局之战\n类型：剧情 / 
- 动作 / 科幻\n地区：美国\n豆瓣链接：https://movie.douban.com/
- subject/26100958/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 老江湖
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-UID:35840408@douban-movie-calendar
-DESCRIPTION:电影：老江湖\n类型：喜剧 / 动作 / 犯罪\n地区
- ：中国大陆\n豆瓣链接：https://movie.douban.com/subject/35840408/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 死亡禁区实录
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-UID:37380650@douban-movie-calendar
-DESCRIPTION:电影：死亡禁区实录\n类型：悬疑 / 惊悚 / 恐怖
- \n地区：中国大陆\n豆瓣链接：https://movie.douban.com/subject/3
- 7380650/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 铁达妮的号
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-UID:37144718@douban-movie-calendar
-DESCRIPTION:电影：铁达妮的号\n类型：剧情 / 喜剧\n地区：
- 中国大陆\n豆瓣链接：https://movie.douban.com/subject/37144718/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 红衣新娘
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-UID:37407445@douban-movie-calendar
-DESCRIPTION:电影：红衣新娘\n类型：悬疑 / 惊悚 / 恐怖\n地
- 区：中国大陆\n豆瓣链接：https://movie.douban.com/subject/374074
- 45/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 野兽之心
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-UID:36828393@douban-movie-calendar
-DESCRIPTION:电影：野兽之心\n类型：剧情 / 动作 / 冒险\n地
- 区：美国\n豆瓣链接：https://movie.douban.com/subject/36828393/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 正义必胜
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-UID:38188824@douban-movie-calendar
-DESCRIPTION:电影：正义必胜\n状态：正在影院上映\n地区：
- 中国大陆\n豆瓣链接：https://movie.douban.com/subject/38188824/
+SUMMARY:🎬 重生2
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+UID:37403222@douban-movie-calendar
+DESCRIPTION:电影：重生2\n状态：正在影院上映\n地区：中国
+ 大陆\n导演：马浴柯\n豆瓣链接：https://movie.douban.com/subjec
+ t/37403222/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 杀死比尔：血色全传 ⭐8.7
@@ -156,58 +170,166 @@ DESCRIPTION:电影：杀死比尔：血色全传\n状态：正在影院上
  豆瓣链接：https://movie.douban.com/subject/10756537/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 坠落2：死点
+SUMMARY:🎬 坠落2：死点 ⭐5.4
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 UID:36318704@douban-movie-calendar
-DESCRIPTION:电影：坠落2：死点\n状态：正在影院上映\n地区
- ：美国 英国\n导演：迈克尔·斯派瑞 彼得·斯派瑞\n豆瓣
- 链接：https://movie.douban.com/subject/36318704/
+DESCRIPTION:电影：坠落2：死点\n状态：正在影院上映\n豆瓣
+ 评分：5.4\n地区：美国 英国\n导演：迈克尔·斯派瑞 彼得
+ ·斯派瑞\n豆瓣链接：https://movie.douban.com/subject/36318704/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 怪屋
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-UID:37427091@douban-movie-calendar
-DESCRIPTION:电影：怪屋\n状态：正在影院上映\n地区：中国
- 大陆\n导演：王博伦\n豆瓣链接：https://movie.douban.com/subjec
- t/37427091/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 燃烧吧！爸爸
+SUMMARY:🎬 燃烧吧！爸爸 ⭐6.8
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 UID:36903929@douban-movie-calendar
-DESCRIPTION:电影：燃烧吧！爸爸\n状态：正在影院上映\n地
- 区：中国大陆\n导演：刘潇阳\n豆瓣链接：https://movie.douba
- n.com/subject/36903929/
+DESCRIPTION:电影：燃烧吧！爸爸\n状态：正在影院上映\n豆
+ 瓣评分：6.8\n地区：中国大陆\n导演：刘潇阳\n豆瓣链接
+ ：https://movie.douban.com/subject/36903929/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 大熊雨林 ⭐8.5
+SUMMARY:🎬 大熊雨林 ⭐8.4
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 UID:33422507@douban-movie-calendar
 DESCRIPTION:电影：大熊雨林\n状态：正在影院上映\n豆瓣评
- 分：8.5\n地区：加拿大\n导演：马克·格里菲斯 丽贝卡·
+ 分：8.4\n地区：加拿大\n导演：马克·格里菲斯 丽贝卡·
  乔根森 伊恩·麦卡利斯特\n豆瓣链接：https://movie.douban.com
  /subject/33422507/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 红闪电
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-UID:37171813@douban-movie-calendar
-DESCRIPTION:电影：红闪电\n状态：正在影院上映\n地区：中
- 国大陆\n导演：霍亮\n豆瓣链接：https://movie.douban.com/subjec
- t/37171813/
+SUMMARY:🎬 我想留在你身边
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+UID:35390242@douban-movie-calendar
+DESCRIPTION:电影：我想留在你身边\n状态：正在影院上映\n
+ 地区：中国大陆\n导演：相国强\n豆瓣链接：https://movie.do
+ uban.com/subject/35390242/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 年会不能停！2 ⭐6.6
+SUMMARY:🎬 床下有人4
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+UID:36961914@douban-movie-calendar
+DESCRIPTION:电影：床下有人4\n状态：正在影院上映\n地区：
+ 中国大陆\n导演：苗陈山\n豆瓣链接：https://movie.douban.com/
+ subject/36961914/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 惊魂迷影
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+UID:38215445@douban-movie-calendar
+DESCRIPTION:电影：惊魂迷影\n状态：正在影院上映\n地区：
+ 中国大陆\n导演：徐捷\n豆瓣链接：https://movie.douban.com/sub
+ ject/38215445/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 上海女儿
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+UID:36753343@douban-movie-calendar
+DESCRIPTION:电影：上海女儿\n状态：正在影院上映\n地区：
+ 中国大陆\n导演：沈仲旻\n豆瓣链接：https://movie.douban.com/
+ subject/36753343/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 一路超平安
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+UID:36192993@douban-movie-calendar
+DESCRIPTION:电影：一路超平安\n状态：正在影院上映\n地区
+ ：中国大陆\n导演：孙小杭\n豆瓣链接：https://movie.douban.c
+ om/subject/36192993/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 敦煌英雄 ⭐6.0
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+UID:35244246@douban-movie-calendar
+DESCRIPTION:电影：敦煌英雄\n状态：正在影院上映\n豆瓣评
+ 分：6.0\n地区：中国大陆\n导演：曹盾\n豆瓣链接：https://
+ movie.douban.com/subject/35244246/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 红孩儿火焰山之王
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+UID:37054065@douban-movie-calendar
+DESCRIPTION:电影：红孩儿火焰山之王\n状态：正在影院上映
+ \n地区：中国大陆\n导演：何状志 文静 谢嘉业\n豆瓣链接
+ ：https://movie.douban.com/subject/37054065/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 老江湖 ⭐4.8
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+UID:35840408@douban-movie-calendar
+DESCRIPTION:电影：老江湖\n状态：正在影院上映\n豆瓣评分
+ ：4.8\n地区：中国大陆\n导演：刘誉 李太阁\n豆瓣链接：h
+ ttps://movie.douban.com/subject/35840408/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 死亡禁区实录 ⭐4.6
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+UID:37380650@douban-movie-calendar
+DESCRIPTION:电影：死亡禁区实录\n状态：正在影院上映\n豆
+ 瓣评分：4.6\n地区：中国大陆\n导演：王晟赫\n豆瓣链接
+ ：https://movie.douban.com/subject/37380650/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 凝脂手
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+UID:37667170@douban-movie-calendar
+DESCRIPTION:电影：凝脂手\n状态：正在影院上映\n地区：中
+ 国大陆\n导演：胡玫\n豆瓣链接：https://movie.douban.com/subjec
+ t/37667170/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 蝉衣
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+UID:35964329@douban-movie-calendar
+DESCRIPTION:电影：蝉衣\n状态：正在影院上映\n地区：中国
+ 大陆\n导演：罗灵\n豆瓣链接：https://movie.douban.com/subject/3
+ 5964329/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 铁达妮的号
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+UID:37144718@douban-movie-calendar
+DESCRIPTION:电影：铁达妮的号\n状态：正在影院上映\n地区
+ ：中国大陆\n导演：李珈西\n豆瓣链接：https://movie.douban.c
+ om/subject/37144718/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 最后，一根稻草托起了下巴
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+UID:38376267@douban-movie-calendar
+DESCRIPTION:电影：最后，一根稻草托起了下巴\n状态：正在
+ 影院上映\n地区：中国大陆\n导演：松鹃\n豆瓣链接：https
+ ://movie.douban.com/subject/38376267/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 野兽之心 ⭐7.2
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+UID:36828393@douban-movie-calendar
+DESCRIPTION:电影：野兽之心\n状态：正在影院上映\n豆瓣评
+ 分：7.2\n地区：美国\n导演：大卫·阿耶\n豆瓣链接：https:
+ //movie.douban.com/subject/36828393/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 年会不能停！2 ⭐6.4
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 UID:36850814@douban-movie-calendar
 DESCRIPTION:电影：年会不能停！2\n状态：正在影院上映\n豆
- 瓣评分：6.6\n地区：中国大陆\n导演：董润年\n豆瓣链接
+ 瓣评分：6.4\n地区：中国大陆\n导演：董润年\n豆瓣链接
  ：https://movie.douban.com/subject/36850814/
 END:VEVENT
 BEGIN:VEVENT
@@ -220,30 +342,21 @@ DESCRIPTION:电影：牛来\n状态：正在影院上映\n豆瓣评分：6
  e.douban.com/subject/38581618/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 去你的岛 ⭐7.6
+SUMMARY:🎬 去你的岛 ⭐7.5
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 UID:35275131@douban-movie-calendar
 DESCRIPTION:电影：去你的岛\n状态：正在影院上映\n豆瓣评
- 分：7.6\n地区：中国大陆\n导演：周浩然\n豆瓣链接：https
+ 分：7.5\n地区：中国大陆\n导演：周浩然\n豆瓣链接：https
  ://movie.douban.com/subject/35275131/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 冬旅人 ⭐6.1
-DTSTART;VALUE=DATE:20260807
-DTEND;VALUE=DATE:20260808
-UID:35201478@douban-movie-calendar
-DESCRIPTION:电影：冬旅人\n状态：正在影院上映\n豆瓣评分
- ：6.1\n地区：中国大陆\n导演：鲁丹\n豆瓣链接：https://mov
- ie.douban.com/subject/35201478/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 汪汪队立大功大电影3：勇闯恐龙岛 ⭐7.2
+SUMMARY:🎬 汪汪队立大功大电影3：勇闯恐龙岛 ⭐7.1
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
 UID:36791178@douban-movie-calendar
 DESCRIPTION:电影：汪汪队立大功大电影3：勇闯恐龙岛\n状
- 态：正在影院上映\n豆瓣评分：7.2\n地区：加拿大 美国\n
+ 态：正在影院上映\n豆瓣评分：7.1\n地区：加拿大 美国\n
  导演：卡尔·布伦克尔\n豆瓣链接：https://movie.douban.com/sub
  ject/36791178/
 END:VEVENT
@@ -257,16 +370,6 @@ DESCRIPTION:电影：欢迎来龙餐馆\n状态：正在影院上映\n豆
  ：https://movie.douban.com/subject/35811064/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 逃出绝命街 ⭐5.7
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260813
-UID:36318703@douban-movie-calendar
-DESCRIPTION:电影：逃出绝命街\n状态：正在影院上映\n豆瓣
- 评分：5.7\n地区：美国 加拿大 澳大利亚\n导演：大卫·罗
- 伯特·米切尔\n豆瓣链接：https://movie.douban.com/subject/3631870
- 3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎬 空枪 ⭐7.2
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
@@ -276,13 +379,13 @@ DESCRIPTION:电影：空枪\n状态：正在影院上映\n豆瓣评分：7
  tps://movie.douban.com/subject/37508847/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 怒之杀
+SUMMARY:🎬 怒之杀 ⭐5.6
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 UID:36889088@douban-movie-calendar
-DESCRIPTION:电影：怒之杀\n状态：正在影院上映\n地区：英
- 国 美国\n导演：让-弗朗索瓦·雷切\n豆瓣链接：https://movi
- e.douban.com/subject/36889088/
+DESCRIPTION:电影：怒之杀\n状态：正在影院上映\n豆瓣评分
+ ：5.6\n地区：英国 美国\n导演：让-弗朗索瓦·雷切\n豆瓣
+ 链接：https://movie.douban.com/subject/36889088/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 机器人总动员 ⭐9.3
@@ -294,58 +397,13 @@ DESCRIPTION:电影：机器人总动员\n状态：正在影院上映\n豆
  接：https://movie.douban.com/subject/2131459/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 不想失去你
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-UID:36779597@douban-movie-calendar
-DESCRIPTION:电影：不想失去你\n状态：正在影院上映\n地区
- ：中国大陆\n导演：郑润奇\n豆瓣链接：https://movie.douban.c
- om/subject/36779597/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 喜欢高兴爱
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-UID:35317825@douban-movie-calendar
-DESCRIPTION:电影：喜欢高兴爱\n状态：正在影院上映\n地区
- ：中国大陆\n导演：刘兵\n豆瓣链接：https://movie.douban.com/
- subject/35317825/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 昏头转向
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-UID:38584496@douban-movie-calendar
-DESCRIPTION:电影：昏头转向\n状态：正在影院上映\n地区：
- 中国大陆\n导演：吴俊贤 季海涛\n豆瓣链接：https://movie.d
- ouban.com/subject/38584496/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 大唐妖探 ⭐6.4
+SUMMARY:🎬 大唐妖探 ⭐6.3
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 UID:35464353@douban-movie-calendar
 DESCRIPTION:电影：大唐妖探\n状态：正在影院上映\n豆瓣评
- 分：6.4\n地区：中国大陆\n导演：程腾 黄珉\n豆瓣链接：h
+ 分：6.3\n地区：中国大陆\n导演：程腾 黄珉\n豆瓣链接：h
  ttps://movie.douban.com/subject/35464353/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 我的答案之城
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-UID:37855368@douban-movie-calendar
-DESCRIPTION:电影：我的答案之城\n状态：正在影院上映\n地
- 区：中国大陆\n导演：王绍涵 剧玺博\n豆瓣链接：https://m
- ovie.douban.com/subject/37855368/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 古村迷宅
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-UID:37247652@douban-movie-calendar
-DESCRIPTION:电影：古村迷宅\n状态：正在影院上映\n地区：
- 中国大陆\n导演：任伟\n豆瓣链接：https://movie.douban.com/sub
- ject/37247652/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 肖申克的救赎 ⭐9.7
@@ -357,15 +415,6 @@ DESCRIPTION:电影：肖申克的救赎\n状态：正在影院上映\n豆
  链接：https://movie.douban.com/subject/1292052/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 数到三
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-UID:36931140@douban-movie-calendar
-DESCRIPTION:电影：数到三\n状态：正在影院上映\n地区：中
- 国大陆\n导演：孙琳\n豆瓣链接：https://movie.douban.com/subjec
- t/36931140/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎬 密档 ⭐6.6
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
@@ -373,24 +422,6 @@ UID:35209727@douban-movie-calendar
 DESCRIPTION:电影：密档\n状态：正在影院上映\n豆瓣评分：6
  .6\n地区：中国大陆\n导演：郑大圣\n豆瓣链接：https://movi
  e.douban.com/subject/35209727/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 特立独行 ⭐6.7
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260704
-UID:36953973@douban-movie-calendar
-DESCRIPTION:电影：特立独行\n状态：正在影院上映\n豆瓣评
- 分：6.7\n地区：中国大陆\n导演：邢文雄\n豆瓣链接：https
- ://movie.douban.com/subject/36953973/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 小黄人与大怪兽 ⭐6.6
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260704
-UID:36962219@douban-movie-calendar
-DESCRIPTION:电影：小黄人与大怪兽\n状态：正在影院上映\n
- 豆瓣评分：6.6\n地区：美国\n导演：皮埃尔·柯芬\n豆瓣链
- 接：https://movie.douban.com/subject/36962219/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 功夫女足 ⭐6.3
@@ -402,15 +433,6 @@ DESCRIPTION:电影：功夫女足\n状态：正在影院上映\n豆瓣评
  链接：https://movie.douban.com/subject/36452545/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 全城追缉
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
-UID:38541236@douban-movie-calendar
-DESCRIPTION:电影：全城追缉\n状态：正在影院上映\n地区：
- 中国大陆\n导演：崔景宣\n豆瓣链接：https://movie.douban.com/
- subject/38541236/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎬 奥德赛 ⭐8.6
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
@@ -419,24 +441,6 @@ DESCRIPTION:电影：奥德赛\n状态：正在影院上映\n豆瓣评分
  ：8.6\n地区：美国 加拿大 冰岛 新西兰 摩洛哥 英国\n导
  演：克里斯托弗·诺兰\n豆瓣链接：https://movie.douban.com/sub
  ject/36808876/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 恐怖游轮 ⭐8.5
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260718
-UID:3011051@douban-movie-calendar
-DESCRIPTION:电影：恐怖游轮\n状态：正在影院上映\n豆瓣评
- 分：8.5\n地区：英国 澳大利亚\n导演：克里斯托弗·史密
- 斯\n豆瓣链接：https://movie.douban.com/subject/3011051/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 想你了 ⭐6.8
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260718
-UID:37021936@douban-movie-calendar
-DESCRIPTION:电影：想你了\n状态：正在影院上映\n豆瓣评分
- ：6.8\n地区：中国大陆\n导演：麻赢心\n豆瓣链接：https://
- movie.douban.com/subject/37021936/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 八仙！ ⭐8.2
@@ -466,50 +470,13 @@ DESCRIPTION:电影：痴迷\n状态：正在影院上映\n豆瓣评分：7
  .douban.com/subject/37450627/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 蜘蛛侠：崭新之日 ⭐7.8
-DTSTART;VALUE=DATE:20260729
-DTEND;VALUE=DATE:20260730
-UID:36246195@douban-movie-calendar
-DESCRIPTION:电影：蜘蛛侠：崭新之日\n状态：正在影院上映
- \n豆瓣评分：7.8\n地区：美国 加拿大 英国 德国\n导演：
- 德斯汀·丹尼尔·克雷顿\n豆瓣链接：https://movie.douban.com/s
- ubject/36246195/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 那山那水
-DTSTART;VALUE=DATE:20260615
-DTEND;VALUE=DATE:20260616
-UID:38502416@douban-movie-calendar
-DESCRIPTION:电影：那山那水\n状态：正在影院上映\n地区：
- 中国大陆\n导演：陈子隽\n豆瓣链接：https://movie.douban.com/
- subject/38502416/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 抓特务 ⭐7.4
-DTSTART;VALUE=DATE:20260619
-DTEND;VALUE=DATE:20260620
-UID:36812879@douban-movie-calendar
-DESCRIPTION:电影：抓特务\n状态：正在影院上映\n豆瓣评分
- ：7.4\n地区：中国大陆\n导演：冯小刚\n豆瓣链接：https://
- movie.douban.com/subject/36812879/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 玩具总动员5 ⭐8.0
-DTSTART;VALUE=DATE:20260619
-DTEND;VALUE=DATE:20260620
-UID:36238849@douban-movie-calendar
-DESCRIPTION:电影：玩具总动员5\n状态：正在影院上映\n豆瓣
- 评分：8.0\n地区：美国\n导演：安德鲁·斯坦顿 麦肯纳·
- 哈里斯\n豆瓣链接：https://movie.douban.com/subject/36238849/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 四渡
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260627
-UID:37191746@douban-movie-calendar
-DESCRIPTION:电影：四渡\n状态：正在影院上映\n地区：中国
- 大陆\n导演：徐展雄\n豆瓣链接：https://movie.douban.com/subjec
- t/37191746/
+SUMMARY:🎬 诺曼底72小时 ⭐8.2
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+UID:36916000@douban-movie-calendar
+DESCRIPTION:电影：诺曼底72小时\n状态：正在影院上映\n豆
+ 瓣评分：8.2\n地区：英国 法国 美国\n导演：安东尼·马拉
+ 斯\n豆瓣链接：https://movie.douban.com/subject/36916000/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 后室 ⭐6.7
@@ -593,6 +560,15 @@ DESCRIPTION:电影：夺冠\n状态：正在影院上映\n豆瓣评分：7
  e.douban.com/subject/30128916/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎬 复仇者联盟4：终局之战 ⭐8.5
+DTSTART;VALUE=DATE:20190424
+DTEND;VALUE=DATE:20190425
+UID:26100958@douban-movie-calendar
+DESCRIPTION:电影：复仇者联盟4：终局之战\n状态：正在影
+ 院上映\n豆瓣评分：8.5\n地区：美国\n导演：安东尼·罗素
+  乔·罗素\n豆瓣链接：https://movie.douban.com/subject/26100958/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎬 白蛇：缘起 ⭐7.8
 DTSTART;VALUE=DATE:20190111
 DTEND;VALUE=DATE:20190112
@@ -602,13 +578,22 @@ DESCRIPTION:电影：白蛇：缘起\n状态：正在影院上映\n豆瓣
  瓣链接：https://movie.douban.com/subject/30331149/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 赵氏孤儿(京剧)
+SUMMARY:🎬 穆桂英挂帅(京剧) ⭐8.7
 DTSTART;VALUE=DATE:20170421
 DTEND;VALUE=DATE:20170422
-UID:27005362@douban-movie-calendar
-DESCRIPTION:电影：赵氏孤儿(京剧)\n状态：正在影院上映\n
- 地区：中国大陆\n导演：马崇杰\n豆瓣链接：https://movie.do
- uban.com/subject/27005362/
+UID:26421039@douban-movie-calendar
+DESCRIPTION:电影：穆桂英挂帅(京剧)\n状态：正在影院上映
+ \n豆瓣评分：8.7\n地区：中国大陆\n导演：夏钢\n豆瓣链接
+ ：https://movie.douban.com/subject/26421039/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 谢瑶环(京剧)
+DTSTART;VALUE=DATE:20170421
+DTEND;VALUE=DATE:20170422
+UID:27005365@douban-movie-calendar
+DESCRIPTION:电影：谢瑶环(京剧)\n状态：正在影院上映\n地
+ 区：中国大陆\n导演：马崇杰\n豆瓣链接：https://movie.douba
+ n.com/subject/27005365/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 独自在夜晚的海边 ⭐7.6
@@ -627,6 +612,15 @@ UID:20645021@douban-movie-calendar
 DESCRIPTION:电影：龙凤呈祥(京剧)\n状态：正在影院上映\n
  豆瓣评分：8.4\n地区：中国大陆\n导演：保尔夫\n豆瓣链
  接：https://movie.douban.com/subject/20645021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 状元媒(京剧) ⭐7.9
+DTSTART;VALUE=DATE:20150423
+DTEND;VALUE=DATE:20150424
+UID:26347311@douban-movie-calendar
+DESCRIPTION:电影：状元媒(京剧)\n状态：正在影院上映\n豆
+ 瓣评分：7.9\n地区：中国大陆\n导演：王好为 李晨声\n豆
+ 瓣链接：https://movie.douban.com/subject/26347311/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 钢的琴 ⭐8.5

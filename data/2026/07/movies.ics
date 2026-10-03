@@ -6,24 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:豆瓣电影 - 2026年7月
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:🎬 特立独行 ⭐6.7
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260704
-UID:36953973@douban-movie-calendar
-DESCRIPTION:电影：特立独行\n状态：正在影院上映\n豆瓣评
- 分：6.7\n地区：中国大陆\n导演：邢文雄\n豆瓣链接：https
- ://movie.douban.com/subject/36953973/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 小黄人与大怪兽 ⭐6.6
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260704
-UID:36962219@douban-movie-calendar
-DESCRIPTION:电影：小黄人与大怪兽\n状态：正在影院上映\n
- 豆瓣评分：6.6\n地区：美国\n导演：皮埃尔·柯芬\n豆瓣链
- 接：https://movie.douban.com/subject/36962219/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎬 功夫女足 ⭐6.3
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
@@ -31,15 +13,6 @@ UID:36452545@douban-movie-calendar
 DESCRIPTION:电影：功夫女足\n状态：正在影院上映\n豆瓣评
  分：6.3\n地区：中国大陆 中国香港\n导演：周星驰\n豆瓣
  链接：https://movie.douban.com/subject/36452545/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 全城追缉
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
-UID:38541236@douban-movie-calendar
-DESCRIPTION:电影：全城追缉\n状态：正在影院上映\n地区：
- 中国大陆\n导演：崔景宣\n豆瓣链接：https://movie.douban.com/
- subject/38541236/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 奥德赛 ⭐8.6
@@ -50,24 +23,6 @@ DESCRIPTION:电影：奥德赛\n状态：正在影院上映\n豆瓣评分
  ：8.6\n地区：美国 加拿大 冰岛 新西兰 摩洛哥 英国\n导
  演：克里斯托弗·诺兰\n豆瓣链接：https://movie.douban.com/sub
  ject/36808876/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 恐怖游轮 ⭐8.5
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260718
-UID:3011051@douban-movie-calendar
-DESCRIPTION:电影：恐怖游轮\n状态：正在影院上映\n豆瓣评
- 分：8.5\n地区：英国 澳大利亚\n导演：克里斯托弗·史密
- 斯\n豆瓣链接：https://movie.douban.com/subject/3011051/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 想你了 ⭐6.8
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260718
-UID:37021936@douban-movie-calendar
-DESCRIPTION:电影：想你了\n状态：正在影院上映\n豆瓣评分
- ：6.8\n地区：中国大陆\n导演：麻赢心\n豆瓣链接：https://
- movie.douban.com/subject/37021936/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 八仙！ ⭐8.2
@@ -95,15 +50,5 @@ UID:37450627@douban-movie-calendar
 DESCRIPTION:电影：痴迷\n状态：正在影院上映\n豆瓣评分：7
  .6\n地区：美国\n导演：库里·巴克\n豆瓣链接：https://movie
  .douban.com/subject/37450627/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 蜘蛛侠：崭新之日 ⭐7.8
-DTSTART;VALUE=DATE:20260729
-DTEND;VALUE=DATE:20260730
-UID:36246195@douban-movie-calendar
-DESCRIPTION:电影：蜘蛛侠：崭新之日\n状态：正在影院上映
- \n豆瓣评分：7.8\n地区：美国 加拿大 英国 德国\n导演：
- 德斯汀·丹尼尔·克雷顿\n豆瓣链接：https://movie.douban.com/s
- ubject/36246195/
 END:VEVENT
 END:VCALENDAR

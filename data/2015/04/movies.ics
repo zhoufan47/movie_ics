@@ -14,4 +14,13 @@ DESCRIPTION:电影：龙凤呈祥(京剧)\n状态：正在影院上映\n
  豆瓣评分：8.4\n地区：中国大陆\n导演：保尔夫\n豆瓣链
  接：https://movie.douban.com/subject/20645021/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 状元媒(京剧) ⭐7.9
+DTSTART;VALUE=DATE:20150423
+DTEND;VALUE=DATE:20150424
+UID:26347311@douban-movie-calendar
+DESCRIPTION:电影：状元媒(京剧)\n状态：正在影院上映\n豆
+ 瓣评分：7.9\n地区：中国大陆\n导演：王好为 李晨声\n豆
+ 瓣链接：https://movie.douban.com/subject/26347311/
+END:VEVENT
 END:VCALENDAR
