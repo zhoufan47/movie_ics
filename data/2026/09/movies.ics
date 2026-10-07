@@ -24,15 +24,6 @@ DESCRIPTION:电影：坠落2：死点\n状态：正在影院上映\n豆瓣
  ·斯派瑞\n豆瓣链接：https://movie.douban.com/subject/36318704/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 燃烧吧！爸爸 ⭐6.8
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-UID:36903929@douban-movie-calendar
-DESCRIPTION:电影：燃烧吧！爸爸\n状态：正在影院上映\n豆
- 瓣评分：6.8\n地区：中国大陆\n导演：刘潇阳\n豆瓣链接
- ：https://movie.douban.com/subject/36903929/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎬 大熊雨林 ⭐8.4
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
@@ -97,15 +88,6 @@ DESCRIPTION:电影：敦煌英雄\n状态：正在影院上映\n豆瓣评
  movie.douban.com/subject/35244246/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 红孩儿火焰山之王
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-UID:37054065@douban-movie-calendar
-DESCRIPTION:电影：红孩儿火焰山之王\n状态：正在影院上映
- \n地区：中国大陆\n导演：何状志 文静 谢嘉业\n豆瓣链接
- ：https://movie.douban.com/subject/37054065/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎬 老江湖 ⭐4.8
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
@@ -115,22 +97,22 @@ DESCRIPTION:电影：老江湖\n状态：正在影院上映\n豆瓣评分
  ttps://movie.douban.com/subject/35840408/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 死亡禁区实录 ⭐4.6
+SUMMARY:🎬 红孩儿火焰山之王
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+UID:37054065@douban-movie-calendar
+DESCRIPTION:电影：红孩儿火焰山之王\n状态：正在影院上映
+ \n地区：中国大陆\n导演：何状志 文静 谢嘉业\n豆瓣链接
+ ：https://movie.douban.com/subject/37054065/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 死亡禁区实录 ⭐4.5
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 UID:37380650@douban-movie-calendar
 DESCRIPTION:电影：死亡禁区实录\n状态：正在影院上映\n豆
- 瓣评分：4.6\n地区：中国大陆\n导演：王晟赫\n豆瓣链接
+ 瓣评分：4.5\n地区：中国大陆\n导演：王晟赫\n豆瓣链接
  ：https://movie.douban.com/subject/37380650/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 凝脂手
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-UID:37667170@douban-movie-calendar
-DESCRIPTION:电影：凝脂手\n状态：正在影院上映\n地区：中
- 国大陆\n导演：胡玫\n豆瓣链接：https://movie.douban.com/subjec
- t/37667170/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 蝉衣
@@ -142,13 +124,13 @@ DESCRIPTION:电影：蝉衣\n状态：正在影院上映\n地区：中国
  5964329/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 铁达妮的号
+SUMMARY:🎬 凝脂手
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-UID:37144718@douban-movie-calendar
-DESCRIPTION:电影：铁达妮的号\n状态：正在影院上映\n地区
- ：中国大陆\n导演：李珈西\n豆瓣链接：https://movie.douban.c
- om/subject/37144718/
+UID:37667170@douban-movie-calendar
+DESCRIPTION:电影：凝脂手\n状态：正在影院上映\n地区：中
+ 国大陆\n导演：胡玫\n豆瓣链接：https://movie.douban.com/subjec
+ t/37667170/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 最后，一根稻草托起了下巴

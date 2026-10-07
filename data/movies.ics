@@ -39,15 +39,6 @@ DESCRIPTION:电影：试探\n类型：剧情 / 悬疑 / 惊悚\n地区：
  中国大陆\n豆瓣链接：https://movie.douban.com/subject/35068655/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 生化危机：爆发夜
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-UID:37068446@douban-movie-calendar
-DESCRIPTION:电影：生化危机：爆发夜\n类型：科幻 / 惊悚 / 
- 恐怖\n地区：德国\n豆瓣链接：https://movie.douban.com/subject/3
- 7068446/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎬 一个夜晚与三个夏天
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
@@ -106,22 +97,22 @@ DESCRIPTION:电影：神探之痕迹‎\n状态：正在影院上映\n豆
  ：https://movie.douban.com/subject/37247814/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 什么意思夫妇
+SUMMARY:🎬 什么意思夫妇 ⭐6.4
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 UID:37667015@douban-movie-calendar
-DESCRIPTION:电影：什么意思夫妇\n状态：正在影院上映\n地
- 区：中国大陆\n导演：沈春阳\n豆瓣链接：https://movie.douba
- n.com/subject/37667015/
+DESCRIPTION:电影：什么意思夫妇\n状态：正在影院上映\n豆
+ 瓣评分：6.4\n地区：中国大陆\n导演：沈春阳\n豆瓣链接
+ ：https://movie.douban.com/subject/37667015/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 活色生香
+SUMMARY:🎬 活色生香 ⭐7.2
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 UID:37899051@douban-movie-calendar
-DESCRIPTION:电影：活色生香\n状态：正在影院上映\n地区：
- 中国大陆\n导演：罗冬\n豆瓣链接：https://movie.douban.com/sub
- ject/37899051/
+DESCRIPTION:电影：活色生香\n状态：正在影院上映\n豆瓣评
+ 分：7.2\n地区：中国大陆\n导演：罗冬\n豆瓣链接：https://
+ movie.douban.com/subject/37899051/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 侦战 ⭐4.3
@@ -133,13 +124,13 @@ DESCRIPTION:电影：侦战\n状态：正在影院上映\n豆瓣评分：4
  ：https://movie.douban.com/subject/36912789/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 小猪佩奇·完美假期
+SUMMARY:🎬 小猪佩奇·完美假期 ⭐6.2
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 UID:36964833@douban-movie-calendar
 DESCRIPTION:电影：小猪佩奇·完美假期\n状态：正在影院上
- 映\n地区：中国大陆 英国\n导演：刘源\n豆瓣链接：https:/
- /movie.douban.com/subject/36964833/
+ 映\n豆瓣评分：6.2\n地区：中国大陆 英国\n导演：刘源\n
+ 豆瓣链接：https://movie.douban.com/subject/36964833/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 新大头儿子和小头爸爸之天眼系列：失控的第
@@ -148,17 +139,27 @@ DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 UID:38902940@douban-movie-calendar
 DESCRIPTION:电影：新大头儿子和小头爸爸之天眼系列：失
- 控的第七天\n状态：正在影院上映\n地区：中国大陆\n豆
- 瓣链接：https://movie.douban.com/subject/38902940/
+ 控的第七天\n状态：正在影院上映\n地区：中国大陆\n导
+ 演：陆禹 王星峰\n豆瓣链接：https://movie.douban.com/subject/38
+ 902940/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 重生2
+SUMMARY:🎬 重生2 ⭐6.7
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 UID:37403222@douban-movie-calendar
-DESCRIPTION:电影：重生2\n状态：正在影院上映\n地区：中国
- 大陆\n导演：马浴柯\n豆瓣链接：https://movie.douban.com/subjec
- t/37403222/
+DESCRIPTION:电影：重生2\n状态：正在影院上映\n豆瓣评分：
+ 6.7\n地区：中国大陆\n导演：马浴柯\n豆瓣链接：https://mov
+ ie.douban.com/subject/37403222/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 生化危机：爆发夜 ⭐7.3
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+UID:37068446@douban-movie-calendar
+DESCRIPTION:电影：生化危机：爆发夜\n状态：正在影院上映
+ \n豆瓣评分：7.3\n地区：德国 法国 美国\n导演：扎克·克
+ 雷格\n豆瓣链接：https://movie.douban.com/subject/37068446/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 杀死比尔：血色全传 ⭐8.7
@@ -177,15 +178,6 @@ UID:36318704@douban-movie-calendar
 DESCRIPTION:电影：坠落2：死点\n状态：正在影院上映\n豆瓣
  评分：5.4\n地区：美国 英国\n导演：迈克尔·斯派瑞 彼得
  ·斯派瑞\n豆瓣链接：https://movie.douban.com/subject/36318704/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 燃烧吧！爸爸 ⭐6.8
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-UID:36903929@douban-movie-calendar
-DESCRIPTION:电影：燃烧吧！爸爸\n状态：正在影院上映\n豆
- 瓣评分：6.8\n地区：中国大陆\n导演：刘潇阳\n豆瓣链接
- ：https://movie.douban.com/subject/36903929/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 大熊雨林 ⭐8.4
@@ -252,15 +244,6 @@ DESCRIPTION:电影：敦煌英雄\n状态：正在影院上映\n豆瓣评
  movie.douban.com/subject/35244246/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 红孩儿火焰山之王
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-UID:37054065@douban-movie-calendar
-DESCRIPTION:电影：红孩儿火焰山之王\n状态：正在影院上映
- \n地区：中国大陆\n导演：何状志 文静 谢嘉业\n豆瓣链接
- ：https://movie.douban.com/subject/37054065/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎬 老江湖 ⭐4.8
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
@@ -270,22 +253,22 @@ DESCRIPTION:电影：老江湖\n状态：正在影院上映\n豆瓣评分
  ttps://movie.douban.com/subject/35840408/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 死亡禁区实录 ⭐4.6
+SUMMARY:🎬 红孩儿火焰山之王
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+UID:37054065@douban-movie-calendar
+DESCRIPTION:电影：红孩儿火焰山之王\n状态：正在影院上映
+ \n地区：中国大陆\n导演：何状志 文静 谢嘉业\n豆瓣链接
+ ：https://movie.douban.com/subject/37054065/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 死亡禁区实录 ⭐4.5
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 UID:37380650@douban-movie-calendar
 DESCRIPTION:电影：死亡禁区实录\n状态：正在影院上映\n豆
- 瓣评分：4.6\n地区：中国大陆\n导演：王晟赫\n豆瓣链接
+ 瓣评分：4.5\n地区：中国大陆\n导演：王晟赫\n豆瓣链接
  ：https://movie.douban.com/subject/37380650/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 凝脂手
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-UID:37667170@douban-movie-calendar
-DESCRIPTION:电影：凝脂手\n状态：正在影院上映\n地区：中
- 国大陆\n导演：胡玫\n豆瓣链接：https://movie.douban.com/subjec
- t/37667170/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 蝉衣
@@ -297,13 +280,13 @@ DESCRIPTION:电影：蝉衣\n状态：正在影院上映\n地区：中国
  5964329/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 铁达妮的号
+SUMMARY:🎬 凝脂手
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-UID:37144718@douban-movie-calendar
-DESCRIPTION:电影：铁达妮的号\n状态：正在影院上映\n地区
- ：中国大陆\n导演：李珈西\n豆瓣链接：https://movie.douban.c
- om/subject/37144718/
+UID:37667170@douban-movie-calendar
+DESCRIPTION:电影：凝脂手\n状态：正在影院上映\n地区：中
+ 国大陆\n导演：胡玫\n豆瓣链接：https://movie.douban.com/subjec
+ t/37667170/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 最后，一根稻草托起了下巴
@@ -322,15 +305,6 @@ UID:36828393@douban-movie-calendar
 DESCRIPTION:电影：野兽之心\n状态：正在影院上映\n豆瓣评
  分：7.2\n地区：美国\n导演：大卫·阿耶\n豆瓣链接：https:
  //movie.douban.com/subject/36828393/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 年会不能停！2 ⭐6.4
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-UID:36850814@douban-movie-calendar
-DESCRIPTION:电影：年会不能停！2\n状态：正在影院上映\n豆
- 瓣评分：6.4\n地区：中国大陆\n导演：董润年\n豆瓣链接
- ：https://movie.douban.com/subject/36850814/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 牛来 ⭐6.0
@@ -531,6 +505,15 @@ UID:35876302@douban-movie-calendar
 DESCRIPTION:电影：晒后假日\n状态：正在影院上映\n豆瓣评
  分：8.2\n地区：英国 美国\n导演：夏洛特·威尔斯\n豆瓣
  链接：https://movie.douban.com/subject/35876302/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 塞伦盖提大草原
+DTSTART;VALUE=DATE:20220421
+DTEND;VALUE=DATE:20220422
+UID:36745791@douban-movie-calendar
+DESCRIPTION:电影：塞伦盖提大草原\n状态：正在影院上映\n
+ 地区：美国\n导演：Michael Dalton-Smith 大卫·格罗斯 Paul Phel
+ an\n豆瓣链接：https://movie.douban.com/subject/36745791/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 雄狮少年 ⭐8.3

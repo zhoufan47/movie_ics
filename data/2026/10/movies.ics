@@ -6,15 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:豆瓣电影 - 2026年10月
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:🎬 生化危机：爆发夜
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-UID:37068446@douban-movie-calendar
-DESCRIPTION:电影：生化危机：爆发夜\n类型：科幻 / 惊悚 / 
- 恐怖\n地区：德国\n豆瓣链接：https://movie.douban.com/subject/3
- 7068446/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎬 一个夜晚与三个夏天
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
@@ -73,22 +64,22 @@ DESCRIPTION:电影：神探之痕迹‎\n状态：正在影院上映\n豆
  ：https://movie.douban.com/subject/37247814/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 什么意思夫妇
+SUMMARY:🎬 什么意思夫妇 ⭐6.4
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 UID:37667015@douban-movie-calendar
-DESCRIPTION:电影：什么意思夫妇\n状态：正在影院上映\n地
- 区：中国大陆\n导演：沈春阳\n豆瓣链接：https://movie.douba
- n.com/subject/37667015/
+DESCRIPTION:电影：什么意思夫妇\n状态：正在影院上映\n豆
+ 瓣评分：6.4\n地区：中国大陆\n导演：沈春阳\n豆瓣链接
+ ：https://movie.douban.com/subject/37667015/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 活色生香
+SUMMARY:🎬 活色生香 ⭐7.2
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 UID:37899051@douban-movie-calendar
-DESCRIPTION:电影：活色生香\n状态：正在影院上映\n地区：
- 中国大陆\n导演：罗冬\n豆瓣链接：https://movie.douban.com/sub
- ject/37899051/
+DESCRIPTION:电影：活色生香\n状态：正在影院上映\n豆瓣评
+ 分：7.2\n地区：中国大陆\n导演：罗冬\n豆瓣链接：https://
+ movie.douban.com/subject/37899051/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 侦战 ⭐4.3
@@ -100,13 +91,13 @@ DESCRIPTION:电影：侦战\n状态：正在影院上映\n豆瓣评分：4
  ：https://movie.douban.com/subject/36912789/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 小猪佩奇·完美假期
+SUMMARY:🎬 小猪佩奇·完美假期 ⭐6.2
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 UID:36964833@douban-movie-calendar
 DESCRIPTION:电影：小猪佩奇·完美假期\n状态：正在影院上
- 映\n地区：中国大陆 英国\n导演：刘源\n豆瓣链接：https:/
- /movie.douban.com/subject/36964833/
+ 映\n豆瓣评分：6.2\n地区：中国大陆 英国\n导演：刘源\n
+ 豆瓣链接：https://movie.douban.com/subject/36964833/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 新大头儿子和小头爸爸之天眼系列：失控的第
@@ -115,16 +106,26 @@ DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 UID:38902940@douban-movie-calendar
 DESCRIPTION:电影：新大头儿子和小头爸爸之天眼系列：失
- 控的第七天\n状态：正在影院上映\n地区：中国大陆\n豆
- 瓣链接：https://movie.douban.com/subject/38902940/
+ 控的第七天\n状态：正在影院上映\n地区：中国大陆\n导
+ 演：陆禹 王星峰\n豆瓣链接：https://movie.douban.com/subject/38
+ 902940/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 重生2
+SUMMARY:🎬 重生2 ⭐6.7
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 UID:37403222@douban-movie-calendar
-DESCRIPTION:电影：重生2\n状态：正在影院上映\n地区：中国
- 大陆\n导演：马浴柯\n豆瓣链接：https://movie.douban.com/subjec
- t/37403222/
+DESCRIPTION:电影：重生2\n状态：正在影院上映\n豆瓣评分：
+ 6.7\n地区：中国大陆\n导演：马浴柯\n豆瓣链接：https://mov
+ ie.douban.com/subject/37403222/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 生化危机：爆发夜 ⭐7.3
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+UID:37068446@douban-movie-calendar
+DESCRIPTION:电影：生化危机：爆发夜\n状态：正在影院上映
+ \n豆瓣评分：7.3\n地区：德国 法国 美国\n导演：扎克·克
+ 雷格\n豆瓣链接：https://movie.douban.com/subject/37068446/
 END:VEVENT
 END:VCALENDAR
