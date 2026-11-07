@@ -15,15 +15,6 @@ DESCRIPTION:电影：杀死比尔：血色全传\n状态：正在影院上
  豆瓣链接：https://movie.douban.com/subject/10756537/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 坠落2：死点 ⭐5.4
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-UID:36318704@douban-movie-calendar
-DESCRIPTION:电影：坠落2：死点\n状态：正在影院上映\n豆瓣
- 评分：5.4\n地区：美国 英国\n导演：迈克尔·斯派瑞 彼得
- ·斯派瑞\n豆瓣链接：https://movie.douban.com/subject/36318704/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎬 大熊雨林 ⭐8.4
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
@@ -32,24 +23,6 @@ DESCRIPTION:电影：大熊雨林\n状态：正在影院上映\n豆瓣评
  分：8.4\n地区：加拿大\n导演：马克·格里菲斯 丽贝卡·
  乔根森 伊恩·麦卡利斯特\n豆瓣链接：https://movie.douban.com
  /subject/33422507/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 我想留在你身边
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-UID:35390242@douban-movie-calendar
-DESCRIPTION:电影：我想留在你身边\n状态：正在影院上映\n
- 地区：中国大陆\n导演：相国强\n豆瓣链接：https://movie.do
- uban.com/subject/35390242/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 床下有人4
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-UID:36961914@douban-movie-calendar
-DESCRIPTION:电影：床下有人4\n状态：正在影院上映\n地区：
- 中国大陆\n导演：苗陈山\n豆瓣链接：https://movie.douban.com/
- subject/36961914/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 惊魂迷影
@@ -61,24 +34,6 @@ DESCRIPTION:电影：惊魂迷影\n状态：正在影院上映\n地区：
  ject/38215445/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 上海女儿
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-UID:36753343@douban-movie-calendar
-DESCRIPTION:电影：上海女儿\n状态：正在影院上映\n地区：
- 中国大陆\n导演：沈仲旻\n豆瓣链接：https://movie.douban.com/
- subject/36753343/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 一路超平安
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-UID:36192993@douban-movie-calendar
-DESCRIPTION:电影：一路超平安\n状态：正在影院上映\n地区
- ：中国大陆\n导演：孙小杭\n豆瓣链接：https://movie.douban.c
- om/subject/36192993/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎬 敦煌英雄 ⭐6.0
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
@@ -88,22 +43,13 @@ DESCRIPTION:电影：敦煌英雄\n状态：正在影院上映\n豆瓣评
  movie.douban.com/subject/35244246/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 老江湖 ⭐4.8
+SUMMARY:🎬 老江湖 ⭐4.6
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 UID:35840408@douban-movie-calendar
 DESCRIPTION:电影：老江湖\n状态：正在影院上映\n豆瓣评分
- ：4.8\n地区：中国大陆\n导演：刘誉 李太阁\n豆瓣链接：h
+ ：4.6\n地区：中国大陆\n导演：刘誉 李太阁\n豆瓣链接：h
  ttps://movie.douban.com/subject/35840408/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 红孩儿火焰山之王
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-UID:37054065@douban-movie-calendar
-DESCRIPTION:电影：红孩儿火焰山之王\n状态：正在影院上映
- \n地区：中国大陆\n导演：何状志 文静 谢嘉业\n豆瓣链接
- ：https://movie.douban.com/subject/37054065/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 死亡禁区实录 ⭐4.5
@@ -115,39 +61,21 @@ DESCRIPTION:电影：死亡禁区实录\n状态：正在影院上映\n豆
  ：https://movie.douban.com/subject/37380650/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 蝉衣
+SUMMARY:🎬 红孩儿火焰山之王
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-UID:35964329@douban-movie-calendar
-DESCRIPTION:电影：蝉衣\n状态：正在影院上映\n地区：中国
- 大陆\n导演：罗灵\n豆瓣链接：https://movie.douban.com/subject/3
- 5964329/
+UID:37054065@douban-movie-calendar
+DESCRIPTION:电影：红孩儿火焰山之王\n状态：正在影院上映
+ \n地区：中国大陆\n导演：何状志 文静 谢嘉业\n豆瓣链接
+ ：https://movie.douban.com/subject/37054065/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 凝脂手
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-UID:37667170@douban-movie-calendar
-DESCRIPTION:电影：凝脂手\n状态：正在影院上映\n地区：中
- 国大陆\n导演：胡玫\n豆瓣链接：https://movie.douban.com/subjec
- t/37667170/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 最后，一根稻草托起了下巴
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-UID:38376267@douban-movie-calendar
-DESCRIPTION:电影：最后，一根稻草托起了下巴\n状态：正在
- 影院上映\n地区：中国大陆\n导演：松鹃\n豆瓣链接：https
- ://movie.douban.com/subject/38376267/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 野兽之心 ⭐7.2
+SUMMARY:🎬 野兽之心 ⭐7.3
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 UID:36828393@douban-movie-calendar
 DESCRIPTION:电影：野兽之心\n状态：正在影院上映\n豆瓣评
- 分：7.2\n地区：美国\n导演：大卫·阿耶\n豆瓣链接：https:
+ 分：7.3\n地区：美国\n导演：大卫·阿耶\n豆瓣链接：https:
  //movie.douban.com/subject/36828393/
 END:VEVENT
 END:VCALENDAR

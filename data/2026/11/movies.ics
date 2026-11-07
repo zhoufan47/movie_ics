@@ -6,11 +6,174 @@ METHOD:PUBLISH
 X-WR-CALNAME:豆瓣电影 - 2026年11月
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:🎬 试探
+SUMMARY:🎬 清气满乾坤
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+UID:36171702@douban-movie-calendar
+DESCRIPTION:电影：清气满乾坤\n类型：剧情 / 悬疑\n地区：
+ 中国大陆\n豆瓣链接：https://movie.douban.com/subject/36171702/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 爷爷奶奶那些事
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+UID:36154923@douban-movie-calendar
+DESCRIPTION:电影：爷爷奶奶那些事\n类型：纪录片\n地区：
+ 中国大陆\n豆瓣链接：https://movie.douban.com/subject/36154923/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 海上钢琴师
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+UID:1292001@douban-movie-calendar
+DESCRIPTION:电影：海上钢琴师\n类型：剧情 / 音乐\n地区：
+ 意大利\n豆瓣链接：https://movie.douban.com/subject/1292001/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 夫妻一场
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+UID:37388286@douban-movie-calendar
+DESCRIPTION:电影：夫妻一场\n类型：纪录片\n地区：中国大
+ 陆\n豆瓣链接：https://movie.douban.com/subject/37388286/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 向阳青春
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+UID:39015682@douban-movie-calendar
+DESCRIPTION:电影：向阳青春\n类型：剧情\n地区：中国大陆
+ \n豆瓣链接：https://movie.douban.com/subject/39015682/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 深度安静
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+UID:35211934@douban-movie-calendar
+DESCRIPTION:电影：深度安静\n类型：剧情\n地区：中国台湾
+ \n豆瓣链接：https://movie.douban.com/subject/35211934/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 霹雳英雄：素还真
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
+UID:35622269@douban-movie-calendar
+DESCRIPTION:电影：霹雳英雄：素还真\n类型：剧情 / 武侠 / 
+ 古装\n地区：中国台湾\n豆瓣链接：https://movie.douban.com/sub
+ ject/35622269/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 试探
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
 UID:35068655@douban-movie-calendar
-DESCRIPTION:电影：试探\n类型：剧情 / 悬疑 / 惊悚\n地区：
- 中国大陆\n豆瓣链接：https://movie.douban.com/subject/35068655/
+DESCRIPTION:电影：试探\n类型：悬疑 / 惊悚\n地区：中国大
+ 陆\n豆瓣链接：https://movie.douban.com/subject/35068655/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 悲伤逆流成河
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+UID:27102569@douban-movie-calendar
+DESCRIPTION:电影：悲伤逆流成河\n类型：剧情 / 爱情\n地区
+ ：中国大陆\n豆瓣链接：https://movie.douban.com/subject/27102569/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 魔法秘境
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+UID:37503053@douban-movie-calendar
+DESCRIPTION:电影：魔法秘境\n类型：喜剧 / 动画 / 奇幻\n地
+ 区：美国\n豆瓣链接：https://movie.douban.com/subject/37503053/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 时间里的爱人
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+UID:36313679@douban-movie-calendar
+DESCRIPTION:电影：时间里的爱人\n类型：剧情 / 爱情\n地区
+ ：英国\n豆瓣链接：https://movie.douban.com/subject/36313679/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 梦寻苏毗女儿国
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+UID:37516928@douban-movie-calendar
+DESCRIPTION:电影：梦寻苏毗女儿国\n状态：正在影院上映\n
+ 地区：中国大陆\n导演：拉华加\n豆瓣链接：https://movie.do
+ uban.com/subject/37516928/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 珠穆朗玛：云中彼岸
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+UID:37822528@douban-movie-calendar
+DESCRIPTION:电影：珠穆朗玛：云中彼岸\n状态：正在影院上
+ 映\n地区：美国 中国大陆 尼泊尔\n导演：金国威 伊丽莎
+ 白·柴·瓦沙瑞莉\n豆瓣链接：https://movie.douban.com/subject/37
+ 822528/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 一朵山花别样红
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+UID:36641112@douban-movie-calendar
+DESCRIPTION:电影：一朵山花别样红\n状态：正在影院上映\n
+ 地区：中国大陆\n导演：高小卫\n豆瓣链接：https://movie.do
+ uban.com/subject/36641112/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 手捧繁星
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+UID:37659649@douban-movie-calendar
+DESCRIPTION:电影：手捧繁星\n状态：正在影院上映\n地区：
+ 中国大陆\n导演：宁敬武\n豆瓣链接：https://movie.douban.com/
+ subject/37659649/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 感恩号·大篷车
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+UID:37659565@douban-movie-calendar
+DESCRIPTION:电影：感恩号·大篷车\n状态：正在影院上映\n
+ 地区：中国大陆\n导演：马岱山 马子晶\n豆瓣链接：https:
+ //movie.douban.com/subject/37659565/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 我们仅有一次的人生
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+UID:36424371@douban-movie-calendar
+DESCRIPTION:电影：我们仅有一次的人生\n状态：正在影院上
+ 映\n地区：中国大陆\n导演：孙傲谦\n豆瓣链接：https://mov
+ ie.douban.com/subject/36424371/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 心迷宫之三重罪
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+UID:37295792@douban-movie-calendar
+DESCRIPTION:电影：心迷宫之三重罪\n状态：正在影院上映\n
+ 地区：中国大陆\n导演：何念\n豆瓣链接：https://movie.douba
+ n.com/subject/37295792/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 乡归
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+UID:36083358@douban-movie-calendar
+DESCRIPTION:电影：乡归\n状态：正在影院上映\n地区：中国
+ 大陆\n导演：徐晓晖\n豆瓣链接：https://movie.douban.com/subjec
+ t/36083358/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 小城之春 ⭐8.7
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+UID:1323746@douban-movie-calendar
+DESCRIPTION:电影：小城之春\n状态：正在影院上映\n豆瓣评
+ 分：8.7\n地区：中国大陆\n导演：费穆\n豆瓣链接：https://
+ movie.douban.com/subject/1323746/
 END:VEVENT
 END:VCALENDAR

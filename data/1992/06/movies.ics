@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 1992年6月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 笑傲江湖2：东方不败 ⭐8.5
+DTSTART;VALUE=DATE:19920626
+DTEND;VALUE=DATE:19920627
+UID:1294417@douban-movie-calendar
+DESCRIPTION:电影：笑傲江湖2：东方不败\n状态：正在影院
+ 上映\n豆瓣评分：8.5\n地区：中国香港\n导演：程小东\n豆
+ 瓣链接：https://movie.douban.com/subject/1294417/
+END:VEVENT
+END:VCALENDAR

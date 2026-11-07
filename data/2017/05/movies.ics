@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 2017年5月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 脸庞，村庄 ⭐9.1
+DTSTART;VALUE=DATE:20170519
+DTEND;VALUE=DATE:20170520
+UID:26764928@douban-movie-calendar
+DESCRIPTION:电影：脸庞，村庄\n状态：正在影院上映\n豆瓣
+ 评分：9.1\n地区：法国\n导演：阿涅斯·瓦尔达 让·热内\n
+ 豆瓣链接：https://movie.douban.com/subject/26764928/
+END:VEVENT
+END:VCALENDAR

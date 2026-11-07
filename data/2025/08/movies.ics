@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 2025年8月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 落叶球 ⭐7.1
+DTSTART;VALUE=DATE:20250813
+DTEND;VALUE=DATE:20250814
+UID:35699905@douban-movie-calendar
+DESCRIPTION:电影：落叶球\n状态：正在影院上映\n豆瓣评分
+ ：7.1\n地区：德国 格鲁吉亚\n导演：亚历山大·科贝里泽
+ \n豆瓣链接：https://movie.douban.com/subject/35699905/
+END:VEVENT
+END:VCALENDAR

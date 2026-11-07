@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 2024年7月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 落凡尘 ⭐7.7
+DTSTART;VALUE=DATE:20240712
+DTEND;VALUE=DATE:20240713
+UID:36624248@douban-movie-calendar
+DESCRIPTION:电影：落凡尘\n状态：正在影院上映\n豆瓣评分
+ ：7.7\n地区：中国大陆\n导演：钟鼎\n豆瓣链接：https://mov
+ ie.douban.com/subject/36624248/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 2011年2月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 都灵之马 ⭐8.4
+DTSTART;VALUE=DATE:20110215
+DTEND;VALUE=DATE:20110216
+UID:3285632@douban-movie-calendar
+DESCRIPTION:电影：都灵之马\n状态：正在影院上映\n豆瓣评
+ 分：8.4\n地区：匈牙利 法国 瑞士 德国 美国\n导演：塔尔
+ ·贝拉 阿尼亚斯·赫拉尼茨基\n豆瓣链接：https://movie.douba
+ n.com/subject/3285632/
+END:VEVENT
+END:VCALENDAR

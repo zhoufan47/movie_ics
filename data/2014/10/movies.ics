@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 2014年10月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 飞鱼秀 ⭐8.2
+DTSTART;VALUE=DATE:20141023
+DTEND;VALUE=DATE:20141024
+UID:24743705@douban-movie-calendar
+DESCRIPTION:电影：飞鱼秀\n状态：正在影院上映\n豆瓣评分
+ ：8.2\n地区：中国大陆\n导演：孙虹\n豆瓣链接：https://mov
+ ie.douban.com/subject/24743705/
+END:VEVENT
+END:VCALENDAR

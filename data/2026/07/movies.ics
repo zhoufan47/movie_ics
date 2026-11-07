@@ -6,15 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:豆瓣电影 - 2026年7月
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:🎬 功夫女足 ⭐6.3
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
-UID:36452545@douban-movie-calendar
-DESCRIPTION:电影：功夫女足\n状态：正在影院上映\n豆瓣评
- 分：6.3\n地区：中国大陆 中国香港\n导演：周星驰\n豆瓣
- 链接：https://movie.douban.com/subject/36452545/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎬 奥德赛 ⭐8.6
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
@@ -23,24 +14,6 @@ DESCRIPTION:电影：奥德赛\n状态：正在影院上映\n豆瓣评分
  ：8.6\n地区：美国 加拿大 冰岛 新西兰 摩洛哥 英国\n导
  演：克里斯托弗·诺兰\n豆瓣链接：https://movie.douban.com/sub
  ject/36808876/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 八仙！ ⭐8.2
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260719
-UID:36882191@douban-movie-calendar
-DESCRIPTION:电影：八仙！\n状态：正在影院上映\n豆瓣评分
- ：8.2\n地区：中国大陆\n导演：牟正洋\n豆瓣链接：https://
- movie.douban.com/subject/36882191/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 哈姆雷特 ⭐8.3
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260719
-UID:26588017@douban-movie-calendar
-DESCRIPTION:电影：哈姆雷特\n状态：正在影院上映\n豆瓣评
- 分：8.3\n地区：英国\n导演：林赛·特纳 罗宾·洛\n豆瓣链
- 接：https://movie.douban.com/subject/26588017/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 痴迷 ⭐7.6

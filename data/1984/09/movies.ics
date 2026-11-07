@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:豆瓣电影 - 1984年9月
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:🎬 似水流年 ⭐8.0
+SUMMARY:🎬 血迷宫 ⭐7.8
 DTSTART;VALUE=DATE:19840907
 DTEND;VALUE=DATE:19840908
-UID:1294139@douban-movie-calendar
-DESCRIPTION:电影：似水流年\n状态：正在影院上映\n豆瓣评
- 分：8.0\n地区：中国香港 中国大陆\n导演：严浩\n豆瓣链
- 接：https://movie.douban.com/subject/1294139/
+UID:1302542@douban-movie-calendar
+DESCRIPTION:电影：血迷宫\n状态：正在影院上映\n豆瓣评分
+ ：7.8\n地区：美国\n导演：乔尔·科恩\n豆瓣链接：https://m
+ ovie.douban.com/subject/1302542/
 END:VEVENT
 END:VCALENDAR

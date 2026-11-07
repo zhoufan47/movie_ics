@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 2003年5月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 狗镇 ⭐8.4
+DTSTART;VALUE=DATE:20030519
+DTEND;VALUE=DATE:20030520
+UID:1298759@douban-movie-calendar
+DESCRIPTION:电影：狗镇\n状态：正在影院上映\n豆瓣评分：8
+ .4\n地区：丹麦 瑞典 挪威 芬兰 英国 法国 德国 荷兰 意
+ 大利\n导演：拉斯·冯·提尔\n豆瓣链接：https://movie.douban.
+ com/subject/1298759/
+END:VEVENT
+END:VCALENDAR

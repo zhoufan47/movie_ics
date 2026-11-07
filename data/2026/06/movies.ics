@@ -6,12 +6,21 @@ METHOD:PUBLISH
 X-WR-CALNAME:豆瓣电影 - 2026年6月
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:🎬 诺曼底72小时 ⭐8.2
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-UID:36916000@douban-movie-calendar
-DESCRIPTION:电影：诺曼底72小时\n状态：正在影院上映\n豆
- 瓣评分：8.2\n地区：英国 法国 美国\n导演：安东尼·马拉
- 斯\n豆瓣链接：https://movie.douban.com/subject/36916000/
+SUMMARY:🎬 宇宙巨人：希曼崛起 ⭐5.3
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+UID:1951286@douban-movie-calendar
+DESCRIPTION:电影：宇宙巨人：希曼崛起\n状态：正在影院上
+ 映\n豆瓣评分：5.3\n地区：美国\n导演：特拉维斯·奈特\n
+ 豆瓣链接：https://movie.douban.com/subject/1951286/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 她们的狂想曲 ⭐7.1
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+UID:37045627@douban-movie-calendar
+DESCRIPTION:电影：她们的狂想曲\n状态：正在影院上映\n豆
+ 瓣评分：7.1\n地区：德国 法国\n导演：苏珊娜·海因里希
+ \n豆瓣链接：https://movie.douban.com/subject/37045627/
 END:VEVENT
 END:VCALENDAR

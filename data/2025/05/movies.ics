@@ -6,12 +6,30 @@ METHOD:PUBLISH
 X-WR-CALNAME:豆瓣电影 - 2025年5月
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:🎬 狐步 ⭐7.0
+SUMMARY:🎬 接近终点 ⭐7.4
+DTSTART;VALUE=DATE:20250515
+DTEND;VALUE=DATE:20250516
+UID:35409362@douban-movie-calendar
+DESCRIPTION:电影：接近终点\n状态：正在影院上映\n豆瓣评
+ 分：7.4\n地区：法国 西班牙\n导演：奥利维尔·拉克谢\n
+ 豆瓣链接：https://movie.douban.com/subject/35409362/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 阿姆鲁姆 ⭐7.2
+DTSTART;VALUE=DATE:20250515
+DTEND;VALUE=DATE:20250516
+UID:36116464@douban-movie-calendar
+DESCRIPTION:电影：阿姆鲁姆\n状态：正在影院上映\n豆瓣评
+ 分：7.2\n地区：德国\n导演：法提赫·阿金\n豆瓣链接：htt
+ ps://movie.douban.com/subject/36116464/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 镜的第三乐章 ⭐7.3
 DTSTART;VALUE=DATE:20250517
 DTEND;VALUE=DATE:20250518
-UID:36430909@douban-movie-calendar
-DESCRIPTION:电影：狐步\n状态：正在影院上映\n豆瓣评分：7
- .0\n地区：法国 比利时\n导演：瓦莱里·卡努瓦\n豆瓣链接
- ：https://movie.douban.com/subject/36430909/
+UID:36877209@douban-movie-calendar
+DESCRIPTION:电影：镜的第三乐章\n状态：正在影院上映\n豆
+ 瓣评分：7.3\n地区：德国\n导演：克里斯蒂安·佩措尔德\n
+ 豆瓣链接：https://movie.douban.com/subject/36877209/
 END:VEVENT
 END:VCALENDAR

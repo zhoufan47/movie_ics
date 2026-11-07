@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douban Movie Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:豆瓣电影 - 2026年3月
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🎬 当猪会飞
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+UID:38352241@douban-movie-calendar
+DESCRIPTION:电影：当猪会飞\n状态：正在影院上映\n地区：
+ 德国\n导演：丹妮丝·里德迈尔\n豆瓣链接：https://movie.dou
+ ban.com/subject/38352241/
+END:VEVENT
+END:VCALENDAR
